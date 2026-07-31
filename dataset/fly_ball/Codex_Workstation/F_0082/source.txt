@@ -1,7 +1,7 @@
 video_title: Wilyer Abreu flies out to right field Wilyer Abreu flies out to right field Wilyer Abreu flies out to right field Wilyer Abreu comes up just short of tying the game with a two-run homer, but flies out to deep right field
 video_url: https://bdata-producedclips.mlb.com/a3a6b439-e07d-4619-98a2-bfa0ae6eb632.mp4
 source_id: MLB_824764_zack-wheeler-in-play-out-s-to-wilyer-abreu-qhxplb
-clip_id: MLB_824764_zack-wheeler-in-play-out-s-to-wilyer-abreu-qhxplb_head_0p000_7p000
+clip_id: MLB_824764_zack-wheeler-in-play-out-s-to-wilyer-abreu-qhxplb_reclean_2p085_16p019
 source_path: raw_sources\MLB_824764_zack-wheeler-in-play-out-s-to-wilyer-abreu-qhxplb_Wilyer_Abreu_flies_out_to_right_field_Wilyer_Abreu_flies_out_to_right_field_Wily.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.085
+clip_end_time: 16.019

@@ -1,7 +1,7 @@
 video_title: Shea Langeliers' inside-the-park homer (16) Shea Langeliers' inside-the-park homer (16) Shea Langeliers' inside-the-park homer (16) Pete Crow-Armstrong loses track of a fly ball to center field, which allows Shea Langeliers to complete an inside-the-park home run in the top of the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/04/e856669a-70d683c9-b78b84cd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824672_shea-langeliers-inside-the-park-homer-16
-clip_id: MLB_824672_shea-langeliers-inside-the-park-homer-16_head_0p000_7p000
+clip_id: MLB_824672_shea-langeliers-inside-the-park-homer-16_reclean_0p000_12p925
 source_path: raw_sources\MLB_824672_shea-langeliers-inside-the-park-homer-16_Shea_Langeliers_inside-the-park_homer_16_Shea_Langeliers_inside-the-park_homer_1.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.925

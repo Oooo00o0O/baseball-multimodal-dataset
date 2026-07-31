@@ -1,7 +1,7 @@
 video_title: Luis Arraez bites his bat in frustration  Luis Arraez bites his bat in frustration  Luis Arraez bites his bat in frustration  Luis Arraez bites his bat in frustration after he pops up to shortstop in the 1st inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/14/321ee70e-3bd4b399-3df23b07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823950_luis-arraez-bites-his-bat-in-frustration
-clip_id: MLB_823950_luis-arraez-bites-his-bat-in-frustration_head_0p000_7p000
+clip_id: MLB_823950_luis-arraez-bites-his-bat-in-frustration_reclean_0p000_13p765
 source_path: raw_sources\MLB_823950_luis-arraez-bites-his-bat-in-frustration_Luis_Arraez_bites_his_bat_in_frustration_Luis_Arraez_bites_his_bat_in_frustratio.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.765

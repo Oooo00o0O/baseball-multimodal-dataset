@@ -1,7 +1,7 @@
 video_title: Yordan Alvarez's solo home run (15) Yordan Alvarez's solo home run (15) Yordan Alvarez's solo home run (15) Yordan Alvarez homers on a fly ball to right-center field, giving the Astros an early 1-0 lead in the 1st inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/7dd4fe78-19f6a764-6ac0e182-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746782_yordan-alvarez-homers-15-on-a-fly-ball-to-right-center-field-ten87f
-clip_id: MLB_746782_yordan-alvarez-homers-15-on-a-fly-ball-to-right-center-field-ten87f_auto1_0p000_7p000
+clip_id: MLB_746782_yordan-alvarez-homers-15-on-a-fly-ball-to-right-center-field-ten87f_reclean_0p000_13p145
 source_path: raw_sources\MLB_746782_yordan-alvarez-homers-15-on-a-fly-ball-to-right-center-field-ten87f_Yordan_Alvarez_s_solo_home_run_15_Yordan_Alvarez_s_solo_home_run_15_Yordan_Alvarez_s_solo_h.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.145

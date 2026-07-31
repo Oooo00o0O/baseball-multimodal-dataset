@@ -1,7 +1,7 @@
 video_title: Andrew Vaughn's RBI single Andrew Vaughn's RBI single Andrew Vaughn's RBI single Andrew Vaughn hits a line drive back up the middle for an RBI single to tie the game in the top of the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/b3e96223-f4058bd3-b48bb5c0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_747187_thyago-vieira-in-play-run-s-to-andrew-vaughn
-clip_id: MLB_747187_thyago-vieira-in-play-run-s-to-andrew-vaughn_auto1_14p060_21p060
+clip_id: MLB_747187_thyago-vieira-in-play-run-s-to-andrew-vaughn_reclean_12p135_25p042
 source_path: raw_sources\MLB_747187_thyago-vieira-in-play-run-s-to-andrew-vaughn_Andrew_Vaughn_s_RBI_single_Andrew_Vaughn_s_RBI_single_Andrew_Vaughn_s_RBI_single.mp4
-clip_start_time: 14.060
-clip_end_time: 21.060
+clip_start_time: 12.135
+clip_end_time: 25.042

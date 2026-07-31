@@ -1,7 +1,7 @@
 video_title: Kyle Tucker homers in return to Houston (4) Kyle Tucker homers in return to Houston (4) Kyle Tucker homers in return to Houston (4) Kyle Tucker tallies his second hit of the night, this one a line drive home run to right field in the top of the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/3f9ba5c5-72c4c6eb-edbe61b8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824201_ryan-weiss-in-play-run-s-to-kyle-tucker
-clip_id: MLB_824201_ryan-weiss-in-play-run-s-to-kyle-tucker_head_0p000_7p000
+clip_id: MLB_824201_ryan-weiss-in-play-run-s-to-kyle-tucker_reclean_0p000_12p625
 source_path: raw_sources\MLB_824201_ryan-weiss-in-play-run-s-to-kyle-tucker_Kyle_Tucker_homers_in_return_to_Houston_4_Kyle_Tucker_homers_in_return_to_Housto.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.625

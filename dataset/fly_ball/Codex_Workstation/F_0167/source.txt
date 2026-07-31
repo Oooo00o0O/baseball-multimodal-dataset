@@ -1,7 +1,7 @@
 video_title: Tommy Pham's slick sliding catch Tommy Pham's slick sliding catch Tommy Pham's slick sliding catch Tommy Pham slides to make the catch in right field on a hard-hit line drive, ending the top of the 6th inning
 video_url: https://bdata-producedclips.mlb.com/f94b0ed0-0ec8-4e90-b340-bb8407cd880c.mp4
 source_id: MLB_746799_eddie-rosario-lines-out-sharply-to-right-fielder-tommy-pham
-clip_id: MLB_746799_eddie-rosario-lines-out-sharply-to-right-fielder-tommy-pham_auto1_1p300_8p300
+clip_id: MLB_746799_eddie-rosario-lines-out-sharply-to-right-fielder-tommy-pham_reclean_1p305_9p284
 source_path: raw_sources\MLB_746799_eddie-rosario-lines-out-sharply-to-right-fielder-tommy-pham_Tommy_Pham_s_slick_sliding_catch_Tommy_Pham_s_slick_sliding_catch_Tommy_Pham_s_s.mp4
-clip_start_time: 1.300
-clip_end_time: 8.300
+clip_start_time: 1.305
+clip_end_time: 9.284

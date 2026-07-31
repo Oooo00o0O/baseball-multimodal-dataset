@@ -1,7 +1,7 @@
 video_title: Bryce Teodosio's sliding catch Bryce Teodosio's sliding catch Bryce Teodosio's sliding catch Bryce Teodosio makes a nifty sliding catch on a sinking line drive in left field to end the inning
 video_url: https://bdata-producedclips.mlb.com/3d8b6427-5983-473a-8aba-2e384007f54a.mp4
 source_id: MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosio
-clip_id: MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosio_head_0p000_7p000
+clip_id: MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosio_reclean_1p935_9p029
 source_path: raw_sources\MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosio_Bryce_Teodosio_s_sliding_catch_Bryce_Teodosio_s_sliding_catch_Bryce_Teodosio_s_s.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.935
+clip_end_time: 9.029

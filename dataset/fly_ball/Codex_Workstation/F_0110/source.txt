@@ -1,7 +1,7 @@
 video_title: Heriberto Hernández's sac fly Heriberto Hernández's sac fly Heriberto Hernández's sac fly Heriberto Hernández lifts a fly ball to center field deep enough for Xavier Edwards to tag up and score to put the Marlins on the board
 video_url: https://bdata-producedclips.mlb.com/40114ea8-e47e-4b7c-83d3-afa17624b508.mp4
 source_id: MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez
-clip_id: MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez_head_0p000_7p000
+clip_id: MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez_reclean_2p205_16p205
 source_path: raw_sources\MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez_Heriberto_Hern_ndez_s_sac_fly_Heriberto_Hern_ndez_s_sac_fly_Heriberto_Hern_ndez_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.205
+clip_end_time: 16.205

@@ -1,7 +1,7 @@
 video_title: Jazz Chisholm Jr.'s sac fly Jazz Chisholm Jr.'s sac fly Jazz Chisholm Jr.'s sac fly Jazz Chisholm Jr. hits a fly ball to left field deep enough for Paul Goldschmidt to tag up and score to put the Yankees on the board in the 4th
 video_url: https://bdata-producedclips.mlb.com/60bb648c-94cc-4009-ae7e-18152c139ab0.mp4
 source_id: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr
-clip_id: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_head_0p000_7p000
+clip_id: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_reclean_1p405_15p405
 source_path: raw_sources\MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_Jazz_Chisholm_Jr._s_sac_fly_Jazz_Chisholm_Jr._s_sac_fly_Jazz_Chisholm_Jr._s_sac_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.405
+clip_end_time: 15.405

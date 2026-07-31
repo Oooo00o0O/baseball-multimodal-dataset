@@ -1,7 +1,7 @@
 video_title: Dansby Swanson's RBI triple Dansby Swanson's RBI triple Dansby Swanson's RBI triple Dansby Swanson triples on a fly ball to center field, scoring Pedro Ramírez to give the Cubs the lead in the top of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/452e78fa-949d3d3b-5998fc43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson
-clip_id: MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson_head_0p000_7p000
+clip_id: MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson_reclean_0p000_13p015
 source_path: raw_sources\MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson_Dansby_Swanson_s_RBI_triple_Dansby_Swanson_s_RBI_triple_Dansby_Swanson_s_RBI_tri.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.015

@@ -1,7 +1,7 @@
 video_title: Pete Alonso's RBI single Pete Alonso's RBI single Pete Alonso's RBI single Pete Alonso rips a line drive off the wall in right for an RBI single, cutting the Cubs' lead to 6-3 in the top of the 5th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/3ce26806-2161a0d2-e49ad4ee-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776209_michael-soroka-in-play-run-s-to-pete-alonso
-clip_id: MLB_776209_michael-soroka-in-play-run-s-to-pete-alonso_auto1_3p600_10p600
+clip_id: MLB_776209_michael-soroka-in-play-run-s-to-pete-alonso_reclean_3p615_17p615
 source_path: raw_sources\MLB_776209_michael-soroka-in-play-run-s-to-pete-alonso_Pete_Alonso_s_RBI_single_Pete_Alonso_s_RBI_single_Pete_Alonso_s_RBI_single_Pete_Alonso_rips_a_line_drive_off_the_wa.mp4
-clip_start_time: 3.600
-clip_end_time: 10.600
+clip_start_time: 3.615
+clip_end_time: 17.615

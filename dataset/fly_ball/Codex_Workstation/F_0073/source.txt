@@ -1,7 +1,7 @@
 video_title: Masyn Winn's sacrifice fly Masyn Winn's sacrifice fly Masyn Winn's sacrifice fly Masyn Winn hits a fly ball deep enough to left field for Alec Burleson to score from third base, increasing the Cardinals' lead to 6-0
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/08/fecb16f3-b7cbfb95-35b3cb54-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823303_masyn-winn-s-sacrifice-fly
-clip_id: MLB_823303_masyn-winn-s-sacrifice-fly_head_0p000_7p000
+clip_id: MLB_823303_masyn-winn-s-sacrifice-fly_reclean_0p000_13p085
 source_path: raw_sources\MLB_823303_masyn-winn-s-sacrifice-fly_Masyn_Winn_s_sacrifice_fly_Masyn_Winn_s_sacrifice_fly_Masyn_Winn_s_sacrifice_fly.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.085

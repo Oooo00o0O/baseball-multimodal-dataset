@@ -1,7 +1,7 @@
 video_title: Taj Bradley snags comebacker  Taj Bradley snags comebacker  Taj Bradley snags comebacker  Taj Bradley reaches out and snags a hard line drive hit right back at him
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/15/f2eacac5-52cfc99a-3cba7e0d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746960_dominic-smith-lines-out-to-pitcher-taj-bradley
-clip_id: MLB_746960_dominic-smith-lines-out-to-pitcher-taj-bradley_auto1_1p540_8p540
+clip_id: MLB_746960_dominic-smith-lines-out-to-pitcher-taj-bradley_reclean_0p000_13p775
 source_path: raw_sources\MLB_746960_dominic-smith-lines-out-to-pitcher-taj-bradley_Taj_Bradley_snags_comebacker_Taj_Bradley_snags_comebacker_Taj_Bradley_snags_come.mp4
-clip_start_time: 1.540
-clip_end_time: 8.540
+clip_start_time: 0.000
+clip_end_time: 13.775

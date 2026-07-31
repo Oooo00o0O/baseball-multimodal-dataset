@@ -1,7 +1,7 @@
 video_title: Esteury Ruiz makes the catch for the win Esteury Ruiz makes the catch for the win Esteury Ruiz makes the catch for the win Esteury Ruiz catches Tommy Troy fly ball in right field for the Marlins' 10-6 win against the D-backs
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/09/7a70eb31-b1e7d466-946f336a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz
-clip_id: MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz_head_0p000_7p000
+clip_id: MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz_reclean_0p000_13p835
 source_path: raw_sources\MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz_Esteury_Ruiz_makes_the_catch_for_the_win_Esteury_Ruiz_makes_the_catch_for_the_wi.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.835

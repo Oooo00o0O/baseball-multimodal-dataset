@@ -1,7 +1,7 @@
 video_title: Ryan Jeffers' solo home run (8) Ryan Jeffers' solo home run (8) Ryan Jeffers' solo home run (8) Ryan Jeffers homers on a line drive to left-center field, increasing the Twins' lead to 6-1 in the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/09/1bc5f022-1b4f8b1d-1d0b1190-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745910_ryan-jeffers-homers-8-on-a-line-drive-to-left-center-field
-clip_id: MLB_745910_ryan-jeffers-homers-8-on-a-line-drive-to-left-center-field_auto1_1p180_8p180
+clip_id: MLB_745910_ryan-jeffers-homers-8-on-a-line-drive-to-left-center-field_reclean_1p205_15p205
 source_path: raw_sources\MLB_745910_ryan-jeffers-homers-8-on-a-line-drive-to-left-center-field_Ryan_Jeffers_solo_home_run_8_Ryan_Jeffers_solo_home_run_8_Ryan_Jeffers_solo_home.mp4
-clip_start_time: 1.180
-clip_end_time: 8.180
+clip_start_time: 1.205
+clip_end_time: 15.205

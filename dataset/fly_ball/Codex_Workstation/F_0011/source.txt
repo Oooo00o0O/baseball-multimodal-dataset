@@ -1,7 +1,7 @@
 video_title: Luis Lara makes the catch for the Brewers' win Luis Lara makes the catch for the Brewers' win Luis Lara makes the catch for the Brewers' win Luis Lara catches Masyn Winn's fly ball to lock down the the Brewers' 10-2 win
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/07/4919e794-54f799cd-e54ebb4a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823035_luis-lara-makes-the-catch-for-the-brewers-win
-clip_id: MLB_823035_luis-lara-makes-the-catch-for-the-brewers-win_head_0p000_7p000
+clip_id: MLB_823035_luis-lara-makes-the-catch-for-the-brewers-win_reclean_0p000_13p125
 source_path: raw_sources\MLB_823035_luis-lara-makes-the-catch-for-the-brewers-win_Luis_Lara_makes_the_catch_for_the_Brewers_win_Luis_Lara_makes_the_catch_for_the_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.125

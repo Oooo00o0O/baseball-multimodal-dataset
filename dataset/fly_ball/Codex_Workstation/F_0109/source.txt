@@ -1,7 +1,7 @@
 video_title: Gavin Sheets' long-range grab Gavin Sheets' long-range grab Gavin Sheets' long-range grab Gavin Sheets hustles to a line drive and hurdles to make a difficult catch on Mookie Betts in the top of the 3rd
 video_url: https://bdata-producedclips.mlb.com/440f40bd-9e6a-451f-9019-2174220aebc6.mp4
 source_id: MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-5lgimx
-clip_id: MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-5lgimx_head_0p000_7p000
+clip_id: MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-5lgimx_reclean_3p095_15p417
 source_path: raw_sources\MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-5lgimx_Gavin_Sheets_long-range_grab_Gavin_Sheets_long-range_grab_Gavin_Sheets_long-rang.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 3.095
+clip_end_time: 15.417

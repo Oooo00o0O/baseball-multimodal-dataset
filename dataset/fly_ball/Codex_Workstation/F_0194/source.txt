@@ -1,7 +1,7 @@
 video_title: Brendan Donovan's go-ahead solo home run (5) Brendan Donovan's go-ahead solo home run (5) Brendan Donovan's go-ahead solo home run (5) Brendan Donovan homers on a fly ball to right field, putting the Cardinals ahead 4-3 in the bottom of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/bb519f98-b8caacb2-4d6fcf3c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745168_brendan-donovan-homers-5-on-a-fly-ball-to-right-field-syiwmy
-clip_id: MLB_745168_brendan-donovan-homers-5-on-a-fly-ball-to-right-field-syiwmy_auto1_0p000_7p000
+clip_id: MLB_745168_brendan-donovan-homers-5-on-a-fly-ball-to-right-field-syiwmy_reclean_0p000_12p715
 source_path: raw_sources\MLB_745168_brendan-donovan-homers-5-on-a-fly-ball-to-right-field-syiwmy_Brendan_Donovan_s_go-ahead_solo_home_run_5_Brendan_Donovan_s_go-ahead_solo_home_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.715

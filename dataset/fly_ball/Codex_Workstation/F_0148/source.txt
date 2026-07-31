@@ -1,7 +1,7 @@
 video_title: Max Kepler's solo home run (3) Max Kepler's solo home run (3) Max Kepler's solo home run (3) Max Kepler homers (3) on a fly ball to right-center field, extending the Twins' lead to 10-1 in the 7th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/09/ca5a2ba0-e105ef57-7fc0c9e3-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtpox
-clip_id: MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtpox_auto1_1p200_8p200
+clip_id: MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtpox_reclean_1p225_15p225
 source_path: raw_sources\MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtpox_Max_Kepler_s_solo_home_run_3_Max_Kepler_s_solo_home_run_3_Max_Kepler_s_solo_home.mp4
-clip_start_time: 1.200
-clip_end_time: 8.200
+clip_start_time: 1.225
+clip_end_time: 15.225

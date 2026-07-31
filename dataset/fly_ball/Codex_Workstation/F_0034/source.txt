@@ -1,7 +1,7 @@
 video_title: Rodolfo Durán's RBI double Rodolfo Durán's RBI double Rodolfo Durán's RBI double Rodolfo Durán doubles on a fly ball to left field, extending the Padres lead 6-1
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/af6add28-793af9d8-54a81ced-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823285_rodolfo-duran-s-rbi-double
-clip_id: MLB_823285_rodolfo-duran-s-rbi-double_head_0p000_7p000
+clip_id: MLB_823285_rodolfo-duran-s-rbi-double_reclean_1p395_15p395
 source_path: raw_sources\MLB_823285_rodolfo-duran-s-rbi-double_Rodolfo_Dur_n_s_RBI_double_Rodolfo_Dur_n_s_RBI_double_Rodolfo_Dur_n_s_RBI_double.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.395
+clip_end_time: 15.395

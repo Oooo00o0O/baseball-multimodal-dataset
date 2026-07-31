@@ -1,7 +1,7 @@
 video_title: Drake Baldwin's solo home run (9) Drake Baldwin's solo home run (9) Drake Baldwin homers (9) on a fly ball to center fiel Drake Baldwin crushes a solo home run to give the Braves the lead in the top of the 1st, 1-0
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/ef6325d4-4db2cf26-b4334286-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_823143_drake-baldwin-homers-9-on-a-fly-ball-to-center-field-s8z3vx
-clip_id: MLB_823143_drake-baldwin-homers-9-on-a-fly-ball-to-center-field-s8z3vx_head_0p000_7p000
+clip_id: MLB_823143_drake-baldwin-homers-9-on-a-fly-ball-to-center-field-s8z3vx_reclean_1p655_15p655
 source_path: raw_sources\MLB_823143_drake-baldwin-homers-9-on-a-fly-ball-to-center-field-s8z3vx_Drake_Baldwin_s_solo_home_run_9_Drake_Baldwin_s_solo_home_run_9_Drake_Baldwin_ho.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.655
+clip_end_time: 15.655

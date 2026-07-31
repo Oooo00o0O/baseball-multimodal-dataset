@@ -1,7 +1,7 @@
 video_title: Anthony Volpe's leaping catch Anthony Volpe's leaping catch Anthony Volpe's leaping catch Anthony Volpe times his leap perfectly to snag a hard-hit line drive, recording the last out in the top of the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/04/1c6ad260-19a676c4-f7122a2e-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777653_clarke-schmidt-in-play-out-s-to-nolan-jones-nrqhp3
-clip_id: MLB_777653_clarke-schmidt-in-play-out-s-to-nolan-jones-nrqhp3_auto1_1p589_8p589
+clip_id: MLB_777653_clarke-schmidt-in-play-out-s-to-nolan-jones-nrqhp3_reclean_0p834_8p589
 source_path: raw_sources\MLB_777653_clarke-schmidt-in-play-out-s-to-nolan-jones-nrqhp3_Anthony_Volpe_s_leaping_catch_Anthony_Volpe_s_leaping_catch_Anthony_Volpe_s_leaping_catch_Anthony_Volpe_time.mp4
-clip_start_time: 1.589
+clip_start_time: 0.834
 clip_end_time: 8.589

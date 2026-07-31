@@ -1,7 +1,7 @@
 video_title: Nathan Church's leaping grab at the wall Nathan Church's leaping grab at the wall Nathan Church's leaping grab at the wall Nathan Church leaps against the wall, catching a deep Heriberto Hernández fly ball to end the bottom of the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/19/3cece46b-fac64bbb-6fb4bf0c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776686_michael-mcgreevy-in-play-out-s-to-heriberto-hernandez
-clip_id: MLB_776686_michael-mcgreevy-in-play-out-s-to-heriberto-hernandez_auto1_0p140_7p140
+clip_id: MLB_776686_michael-mcgreevy-in-play-out-s-to-heriberto-hernandez_reclean_0p175_14p175
 source_path: raw_sources\MLB_776686_michael-mcgreevy-in-play-out-s-to-heriberto-hernandez_Nathan_Church_s_leaping_grab_at_the_wall_Nathan_Church_s_leaping_grab_at_the_wall_Nathan_Church_s_leaping.mp4
-clip_start_time: 0.140
-clip_end_time: 7.140
+clip_start_time: 0.175
+clip_end_time: 14.175

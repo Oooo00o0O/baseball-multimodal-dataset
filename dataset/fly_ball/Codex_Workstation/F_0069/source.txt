@@ -1,7 +1,7 @@
 video_title: Vladimir Guerrero Jr. flies out to left field Vladimir Guerrero Jr. flies out to left field Vladimir Guerrero Jr. flies out to left field
 video_url: https://bdata-producedclips.mlb.com/fff28018-b271-4d00-8bb3-c67eb121e2fb.mp4
 source_id: MLB_822985_vladimir-guerrero-jr-flies-out-to-left-fielder-chandler-simpson
-clip_id: MLB_822985_vladimir-guerrero-jr-flies-out-to-left-fielder-chandler-simpson_head_0p000_7p000
+clip_id: MLB_822985_vladimir-guerrero-jr-flies-out-to-left-fielder-chandler-simpson_reclean_2p185_13p462
 source_path: raw_sources\MLB_822985_vladimir-guerrero-jr-flies-out-to-left-fielder-chandler-simpson_Vladimir_Guerrero_Jr._flies_out_to_left_field_Vladimir_Guerrero_Jr._flies_out_to.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.185
+clip_end_time: 13.462

@@ -1,7 +1,7 @@
 video_title: Gunnar Henderson's terrific running catch Gunnar Henderson's terrific running catch Gunnar Henderson's terrific running catch Gunnar Henderson hustles for a fly ball in shallow left field to make a difficult catch on Kevin McGonigle for the final out of the top of the  3rd
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/24/3664fcbf-5f7b588b-8d9a8d37-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824840_kevin-mcgonigle-flies-out-to-shortstop-gunnar-henderson
-clip_id: MLB_824840_kevin-mcgonigle-flies-out-to-shortstop-gunnar-henderson_head_0p000_7p000
+clip_id: MLB_824840_kevin-mcgonigle-flies-out-to-shortstop-gunnar-henderson_reclean_0p000_13p895
 source_path: raw_sources\MLB_824840_kevin-mcgonigle-flies-out-to-shortstop-gunnar-henderson_Gunnar_Henderson_s_terrific_running_catch_Gunnar_Henderson_s_terrific_running_ca.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.895

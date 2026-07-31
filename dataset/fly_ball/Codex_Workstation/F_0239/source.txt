@@ -1,7 +1,7 @@
 video_title: Brady Singer gets hit with a comebacker Brady Singer gets hit with a comebacker Brady Singer gets hit with a comebacker Brady Singer gets hit with a line drive off the bat of Lourds Gurriel Jr. in the top of the 4th inning and stays in the game
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/51c9b9af-b3f47057-5e9aa1fa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777602_brady-singer-in-play-no-out-to-lourdes-gurriel-jr
-clip_id: MLB_777602_brady-singer-in-play-no-out-to-lourdes-gurriel-jr_auto1_0p320_7p320
+clip_id: MLB_777602_brady-singer-in-play-no-out-to-lourdes-gurriel-jr_reclean_0p000_13p005
 source_path: raw_sources\MLB_777602_brady-singer-in-play-no-out-to-lourdes-gurriel-jr_Brady_Singer_gets_hit_with_a_comebacker_Brady_Singer_gets_hit_with_a_comebacker_Brady_Singer_gets_hit_with_a_.mp4
-clip_start_time: 0.320
-clip_end_time: 7.320
+clip_start_time: 0.000
+clip_end_time: 13.005

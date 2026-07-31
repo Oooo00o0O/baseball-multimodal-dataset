@@ -1,7 +1,7 @@
 video_title: Jose Altuve's RBI single Jose Altuve's RBI single Jose Altuve's RBI single Jose Altuve singles on a line drive to right field, tying the game at 2 in the 6th inning
 video_url: https://bdata-producedclips.mlb.com/fff69171-2270-481d-ac41-59e35d3254e6.mp4
 source_id: MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve
-clip_id: MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve_head_0p000_7p000
+clip_id: MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve_reclean_1p495_15p495
 source_path: raw_sources\MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.495
+clip_end_time: 15.495

@@ -1,7 +1,7 @@
 video_title: Matt Shaw's sharp flyout Matt Shaw's sharp flyout Matt Shaw's sharp flyout Matt Shaw flies out sharply to center field at the top of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/74307223-a59aa999-b42a2f1f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins
-clip_id: MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins_auto1_0p000_7p000
+clip_id: MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins_reclean_0p000_8p158
 source_path: raw_sources\MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins_Matt_Shaw_s_sharp_flyout_Matt_Shaw_s_sharp_flyout_Matt_Shaw_s_sharp_flyout_Matt_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 8.158

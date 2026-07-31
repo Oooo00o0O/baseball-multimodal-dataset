@@ -1,0 +1,5 @@
+﻿batch,samples,first_global_index,last_global_index,first_sample_path,last_sample_path,clip_too_short,contact_timestamp_wrong,source_recovery_required,audio_candidate_review,semantic_or_schema_review,audio_confirmed_at_current_time,source_available_locally,source_not_available_locally
+1,241,1,299,dataset/fly_ball/Codex_Workstation/F_0001,dataset/fly_ball/Codex_Workstation/F_0331,158,79,2,0,2,160,241,0
+2,241,300,654,dataset/fly_ball/Codex_Workstation/F_0332,dataset/fly_ball/Codex_Workstation/F_0704,151,79,2,1,8,153,241,0
+3,241,655,915,dataset/fly_ball/Codex_Workstation/F_0705,dataset/fly_ball/Codex_Workstation/F_1000,176,63,2,0,0,170,241,0
+4,240,916,1207,dataset/fly_ball/Codex_Workstation/F_1003,dataset/fly_ball/Zhengxuan_Liu/F_034,169,67,3,1,0,165,206,34

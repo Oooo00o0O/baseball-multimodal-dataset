@@ -1,7 +1,7 @@
 video_title: Jon Singleton's great snag at first Jon Singleton's great snag at first Jon Singleton's great snag at first Jon Singleton extends to make a great snag on a line drive down the first-base line
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/0cf23677-a8cd7f4e-402cd6d8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745327_brett-wisely-lines-out-to-first-baseman-jon-singleton
-clip_id: MLB_745327_brett-wisely-lines-out-to-first-baseman-jon-singleton_auto1_2p180_9p180
+clip_id: MLB_745327_brett-wisely-lines-out-to-first-baseman-jon-singleton_reclean_0p485_14p485
 source_path: raw_sources\MLB_745327_brett-wisely-lines-out-to-first-baseman-jon-singleton_Jon_Singleton_s_great_snag_at_first_Jon_Singleton_s_great_snag_at_first_Jon_Sing.mp4
-clip_start_time: 2.180
-clip_end_time: 9.180
+clip_start_time: 0.485
+clip_end_time: 14.485

@@ -1,7 +1,7 @@
 video_title: Heliot Ramos makes a nice running catch Heliot Ramos makes a nice running catch Heliot Ramos makes a nice running catch Heliot Ramos chases down a fly ball in the gap and makes the catch to retire Joc Pederson for the first out of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/03/c511eaa4-b424dba8-7f3fde74-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_747194_joc-pederson-lines-out-sharply-to-right-fielder-heliot-ramos
-clip_id: MLB_747194_joc-pederson-lines-out-sharply-to-right-fielder-heliot-ramos_auto1_1p420_8p420
+clip_id: MLB_747194_joc-pederson-lines-out-sharply-to-right-fielder-heliot-ramos_reclean_0p000_10p060
 source_path: raw_sources\MLB_747194_joc-pederson-lines-out-sharply-to-right-fielder-heliot-ramos_Heliot_Ramos_makes_a_nice_running_catch_Heliot_Ramos_makes_a_nice_running_catch_.mp4
-clip_start_time: 1.420
-clip_end_time: 8.420
+clip_start_time: 0.000
+clip_end_time: 10.060

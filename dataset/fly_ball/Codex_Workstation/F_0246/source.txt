@@ -1,7 +1,7 @@
 video_title: Bobby Witt Jr.'s double Bobby Witt Jr.'s double Bobby Witt Jr.'s double Bobby Witt Jr. rips a line drive to left field and hustles into second for his league-leading 22nd double of the season
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/9c90b2a1-b61403fb-d02c7e45-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777677_keider-montero-in-play-no-out-to-bobby-witt-jr
-clip_id: MLB_777677_keider-montero-in-play-no-out-to-bobby-witt-jr_auto1_3p420_10p420
+clip_id: MLB_777677_keider-montero-in-play-no-out-to-bobby-witt-jr_reclean_1p675_15p675
 source_path: raw_sources\MLB_777677_keider-montero-in-play-no-out-to-bobby-witt-jr_Bobby_Witt_Jr._s_double_Bobby_Witt_Jr._s_double_Bobby_Witt_Jr._s_double_Bobby_Witt_Jr._rips_a_line_drive_to_left.mp4
-clip_start_time: 3.420
-clip_end_time: 10.420
+clip_start_time: 1.675
+clip_end_time: 15.675

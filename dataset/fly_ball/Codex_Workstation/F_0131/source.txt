@@ -1,7 +1,7 @@
 video_title: Leo Rivas' leadoff triple Leo Rivas' leadoff triple Leo Rivas' leadoff triple Leo Rivas triples on a fly ball to right field to lead off the bottom of the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/27/645671a8-81afab7e-aba85736-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_823162_leo-rivas-first-triple-of-the-season
-clip_id: MLB_823162_leo-rivas-first-triple-of-the-season_auto1_1p460_8p460
+clip_id: MLB_823162_leo-rivas-first-triple-of-the-season_reclean_1p035_15p035
 source_path: raw_sources\MLB_823162_leo-rivas-first-triple-of-the-season_Leo_Rivas_leadoff_triple_Leo_Rivas_leadoff_triple_Leo_Rivas_leadoff_triple_Leo_R.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460
+clip_start_time: 1.035
+clip_end_time: 15.035

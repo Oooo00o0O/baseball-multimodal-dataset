@@ -1,7 +1,7 @@
 video_title: Max Muncy snags a line drive Max Muncy snags a line drive Max Muncy snags a line drive Max Muncy snags Jake Burger's line drive for the first out of the top of the 9th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/07/22737dbb-785ee957-9f48ba30-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746147_jake-burger-lines-out-sharply-to-third-baseman-max-muncy
-clip_id: MLB_746147_jake-burger-lines-out-sharply-to-third-baseman-max-muncy_auto1_0p660_7p660
+clip_id: MLB_746147_jake-burger-lines-out-sharply-to-third-baseman-max-muncy_reclean_0p675_14p675
 source_path: raw_sources\MLB_746147_jake-burger-lines-out-sharply-to-third-baseman-max-muncy_Max_Muncy_snags_a_line_drive_Max_Muncy_snags_a_line_drive_Max_Muncy_snags_a_line.mp4
-clip_start_time: 0.660
-clip_end_time: 7.660
+clip_start_time: 0.675
+clip_end_time: 14.675

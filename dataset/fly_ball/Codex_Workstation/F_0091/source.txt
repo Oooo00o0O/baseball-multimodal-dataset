@@ -1,7 +1,7 @@
 video_title: Victor Scott II's solo home run (2) Victor Scott II's solo home run (2) Victor Scott II's solo home run (2) Victor Scott II homers (2) on a fly ball to right field, tying the game 1-1 in the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/14/5dbc567b-9dd4f41a-24f59902-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874
-clip_id: MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874_head_0p000_7p000
+clip_id: MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874_reclean_0p215_14p215
 source_path: raw_sources\MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874_Victor_Scott_II_s_solo_home_run_2_Victor_Scott_II_s_solo_home_run_2_Victor_Scott.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 0.215
+clip_end_time: 14.215

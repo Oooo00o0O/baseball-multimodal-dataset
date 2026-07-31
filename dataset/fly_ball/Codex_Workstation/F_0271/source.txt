@@ -1,7 +1,7 @@
 video_title: Luis Arraez's leaping catch Luis Arraez's leaping catch Luis Arraez's leaping catch Luis Arraez leaps to snag Max Muncy's line drive down the first-base line and end the top of the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/11/efd0f42c-c9de3a24-6787fdb4-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777543_randy-vasquez-in-play-out-s-to-max-muncy-vrkmpk
-clip_id: MLB_777543_randy-vasquez-in-play-out-s-to-max-muncy-vrkmpk_auto1_3p060_10p060
+clip_id: MLB_777543_randy-vasquez-in-play-out-s-to-max-muncy-vrkmpk_reclean_1p485_10p317
 source_path: raw_sources\MLB_777543_randy-vasquez-in-play-out-s-to-max-muncy-vrkmpk_Luis_Arraez_s_leaping_catch_Luis_Arraez_s_leaping_catch_Luis_Arraez_s_leaping_catch_Luis_Arraez_leaps_to_snag_M.mp4
-clip_start_time: 3.060
-clip_end_time: 10.060
+clip_start_time: 1.485
+clip_end_time: 10.317

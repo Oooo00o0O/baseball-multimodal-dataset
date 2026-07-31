@@ -1,2 +1,2 @@
 sample_id,label,landing_zone,strength,trajectory_type,event_start,event_end
-F_0116,fly_ball,8,medium,pop_fly,0.900,1.000
+F_0116,fly_ball,8,medium,pop_fly,0.895,0.995

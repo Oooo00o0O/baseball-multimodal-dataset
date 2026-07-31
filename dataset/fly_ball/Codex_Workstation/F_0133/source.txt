@@ -1,7 +1,7 @@
 video_title: Jake Rogers triples after review Jake Rogers triples after review Jake Rogers triples after reveiw Jake Rogers lifts a fly ball to right that is nearly caught by Teoscar Hernández but pops out of his glove for a triple, as the call on the field is upheld
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/29/fe34302d-e9e03437-3fb35486-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-pages-defl
-clip_id: MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-pages-defl_auto1_0p000_7p000
+clip_id: MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-pages-defl_reclean_0p000_13p895
 source_path: raw_sources\MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-pages-defl_Jake_Rogers_triples_after_review_Jake_Rogers_triples_after_review_Jake_Rogers_tr.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.895

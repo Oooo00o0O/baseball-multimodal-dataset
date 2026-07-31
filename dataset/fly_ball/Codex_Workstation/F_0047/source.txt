@@ -1,7 +1,7 @@
 video_title: Edouard Julien's RBI single Edouard Julien's RBI single Edouard Julien's RBI single Edouard Julien singles on a line drive to left field, giving the Rockies a 2-1 lead in the bottom of the 2nd inning
 video_url: https://bdata-producedclips.mlb.com/9a7486a2-282f-4544-a805-035c9cfb41e6.mp4
 source_id: MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien
-clip_id: MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien_head_0p000_7p000
+clip_id: MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien_reclean_1p405_15p405
 source_path: raw_sources\MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien_Edouard_Julien_s_RBI_single_Edouard_Julien_s_RBI_single_Edouard_Julien_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.405
+clip_end_time: 15.405

@@ -1,7 +1,7 @@
 video_title: Ethan Roberts finishes the Cubs' 7-1 win Ethan Roberts finishes the Cubs' 7-1 win Ethan Roberts finishes the Cubs' 7-1 win Ethan Roberts induces a fly ball to finish the Cubs' 7-1 win over the Rangers
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/08/df5211c6-191fa88f-09f120f5-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_822904_andrew-mccutchen-flies-out-to-center-fielder-pete-crow-armstrong-iyip
-clip_id: MLB_822904_andrew-mccutchen-flies-out-to-center-fielder-pete-crow-armstrong-iyip_head_0p000_7p000
+clip_id: MLB_822904_andrew-mccutchen-flies-out-to-center-fielder-pete-crow-armstrong-iyip_reclean_1p555_12p136
 source_path: raw_sources\MLB_822904_andrew-mccutchen-flies-out-to-center-fielder-pete-crow-armstrong-iyip_Ethan_Roberts_finishes_the_Cubs_7-1_win_Ethan_Roberts_finishes_the_Cubs_7-1_win_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.555
+clip_end_time: 12.136

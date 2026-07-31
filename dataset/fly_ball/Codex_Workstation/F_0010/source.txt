@@ -1,7 +1,7 @@
 video_title: Carson Benge's diving catch Carson Benge's diving catch Carson Benge's diving catch Carson Benge hustles for a fly ball and lays out for a terrific catch on Mike Yastrzemski in the bottom of the 4th
 video_url: https://bdata-producedclips.mlb.com/7a0ed235-21ed-4109-b91e-961a69e51b5a.mp4
 source_id: MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw
-clip_id: MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw_head_0p000_7p000
+clip_id: MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw_reclean_1p455_15p455
 source_path: raw_sources\MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw_Carson_Benge_s_diving_catch_Carson_Benge_s_diving_catch_Carson_Benge_s_diving_ca.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.455
+clip_end_time: 15.455

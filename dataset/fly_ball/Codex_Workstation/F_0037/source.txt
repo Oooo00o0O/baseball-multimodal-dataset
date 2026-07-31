@@ -1,7 +1,7 @@
 video_title: Victor Mesa Jr. makes an insane throw Victor Mesa Jr. makes an insane throw Victor Mesa Jr. makes an amazing throw Victor Mesa Jr. makes an insane throw to keep the runners at their bases after catching a line drive
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/01/dc8a3e0a-bd757c2b-58e4d7e0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_822974_spencer-torkelson-lines-out-to-right-fielder-victor-mesa-jr
-clip_id: MLB_822974_spencer-torkelson-lines-out-to-right-fielder-victor-mesa-jr_head_0p000_7p000
+clip_id: MLB_822974_spencer-torkelson-lines-out-to-right-fielder-victor-mesa-jr_reclean_0p000_13p655
 source_path: raw_sources\MLB_822974_spencer-torkelson-lines-out-to-right-fielder-victor-mesa-jr_Victor_Mesa_Jr._makes_an_insane_throw_Victor_Mesa_Jr._makes_an_insane_throw_Vict.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.655

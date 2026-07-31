@@ -1,7 +1,7 @@
 video_title: Luis L. Ortiz completes the three-inning save Luis L. Ortiz completes the three-inning save Luis L. Ortiz completes the three-inning save Luis L. Ortiz induces a fly ball to secure a three-inning save, the first of his career, as well as the Pirates' 8-1 win in Toronto
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/01/f790d252-06828576-4d7ef89f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_744932_isiah-kiner-falefa-lines-out-to-right-fielder-connor-joe
-clip_id: MLB_744932_isiah-kiner-falefa-lines-out-to-right-fielder-connor-joe_auto1_0p140_7p140
+clip_id: MLB_744932_isiah-kiner-falefa-lines-out-to-right-fielder-connor-joe_reclean_0p175_14p175
 source_path: raw_sources\MLB_744932_isiah-kiner-falefa-lines-out-to-right-fielder-connor-joe_Luis_L._Ortiz_completes_the_three-inning_save_Luis_L._Ortiz_completes_the_three-.mp4
-clip_start_time: 0.140
-clip_end_time: 7.140
+clip_start_time: 0.175
+clip_end_time: 14.175

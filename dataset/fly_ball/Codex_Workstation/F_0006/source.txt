@@ -1,7 +1,7 @@
 video_title: Alika Williams, Zack Gelof combine for unique catch Alika Williams, Zack Gelof combine for unique catch Alika Williams, Zack Gelof combine for unique catch Zack Gelof catches a fly ball that deflected off of Alika Williams' glove in shallow left field, combining to end the inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/ec4e52a8-2be39b74-cb51e982-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824983_aaron-civale-in-play-out-s-to-jakob-marsee
-clip_id: MLB_824983_aaron-civale-in-play-out-s-to-jakob-marsee_head_0p000_7p000
+clip_id: MLB_824983_aaron-civale-in-play-out-s-to-jakob-marsee_reclean_0p000_12p845
 source_path: raw_sources\MLB_824983_aaron-civale-in-play-out-s-to-jakob-marsee_Alika_Williams_Zack_Gelof_combine_for_unique_catch_Alika_Williams_Zack_Gelof_com.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.845

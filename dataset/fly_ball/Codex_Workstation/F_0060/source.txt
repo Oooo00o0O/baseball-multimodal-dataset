@@ -1,7 +1,7 @@
 video_title: Chandler Simpson's running catch Chandler Simpson's running catch Chandler Simpson's running catch Left fielder Chandler Simpson makes a running catch of a line drive by Luis Arraez
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/d5a3e09b-f5198eb5-7ff4fd77-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson
-clip_id: MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson_head_0p000_7p000
+clip_id: MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson_reclean_1p425_10p117
 source_path: raw_sources\MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson_Chandler_Simpson_s_running_catch_Chandler_Simpson_s_running_catch_Chandler_Simps.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.425
+clip_end_time: 10.117

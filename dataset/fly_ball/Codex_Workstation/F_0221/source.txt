@@ -1,7 +1,7 @@
 video_title: Díaz ties franchise record for longest hit streak Díaz ties franchise record for longest hit streak Díaz ties franchise record for longest hit streak Yandy Díaz singles on a fly ball to right fielder Dominic Canzone, tying the Rays franchise record for longest hit streak (19)
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/26/53023ba3-5beb8e89-149a80b5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745073_george-kirby-in-play-no-out-to-yandy-diaz-8boxoo
-clip_id: MLB_745073_george-kirby-in-play-no-out-to-yandy-diaz-8boxoo_auto1_0p000_7p000
+clip_id: MLB_745073_george-kirby-in-play-no-out-to-yandy-diaz-8boxoo_reclean_0p000_13p395
 source_path: raw_sources\MLB_745073_george-kirby-in-play-no-out-to-yandy-diaz-8boxoo_D_az_ties_franchise_record_for_longest_hit_streak_D_az_ties_franchise_record_for_longest_hit_streak_D_az_ties_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.395

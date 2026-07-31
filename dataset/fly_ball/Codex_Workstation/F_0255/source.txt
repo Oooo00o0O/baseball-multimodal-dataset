@@ -1,7 +1,7 @@
 video_title: Justin Verlander escapes jam Justin Verlander escapes jam Justin Verlander escapes jam Justin Verlander escapes a jam by forcing Kyle Schwarber into a pop fly in center field for the third out of the top of the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/978e02d9-b5cb6b07-a873ed4c-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777163_justin-verlander-in-play-out-s-to-kyle-schwarber-6n8fhc
-clip_id: MLB_777163_justin-verlander-in-play-out-s-to-kyle-schwarber-6n8fhc_auto1_1p420_8p420
+clip_id: MLB_777163_justin-verlander-in-play-out-s-to-kyle-schwarber-6n8fhc_reclean_1p435_11p378
 source_path: raw_sources\MLB_777163_justin-verlander-in-play-out-s-to-kyle-schwarber-6n8fhc_Justin_Verlander_escapes_jam_Justin_Verlander_escapes_jam_Justin_Verlander_escapes_jam_Justin_Verlander.mp4
-clip_start_time: 1.420
-clip_end_time: 8.420
+clip_start_time: 1.435
+clip_end_time: 11.378

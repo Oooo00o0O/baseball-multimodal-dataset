@@ -1,7 +1,7 @@
 video_title: Isaac Collins' RBI double Isaac Collins' RBI double Isaac Collins' RBI double Isaac Collins doubles on a fly ball to left field, cutting the Royals' deficit to four runs
 video_url: https://bdata-producedclips.mlb.com/23df0df7-1a7e-4dd8-b606-d56d3fe2e46f.mp4
 source_id: MLB_823607_isaac-collins-doubles-16-on-a-fly-ball-to-left-fielder-juan-soto-jac-
-clip_id: MLB_823607_isaac-collins-doubles-16-on-a-fly-ball-to-left-fielder-juan-soto-jac-_head_0p000_7p000
+clip_id: MLB_823607_isaac-collins-doubles-16-on-a-fly-ball-to-left-fielder-juan-soto-jac-_reclean_1p435_15p435
 source_path: raw_sources\MLB_823607_isaac-collins-doubles-16-on-a-fly-ball-to-left-fielder-juan-soto-jac-_Isaac_Collins_RBI_double_Isaac_Collins_RBI_double_Isaac_Collins_RBI_double_Isaac.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.435
+clip_end_time: 15.435

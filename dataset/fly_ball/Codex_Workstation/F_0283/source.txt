@@ -1,7 +1,7 @@
 video_title: CJ Abrams' leaping snag CJ Abrams' leaping snag CJ Abrams' leaping snag CJ Abrams hurdles at a line drive from Jose Altuve and makes a slick catch for the second out of the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/c2faca00-61ef45a7-8fcdbe90-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776950_jose-altuve-lines-out-to-shortstop-cj-abrams
-clip_id: MLB_776950_jose-altuve-lines-out-to-shortstop-cj-abrams_auto1_0p780_7p780
+clip_id: MLB_776950_jose-altuve-lines-out-to-shortstop-cj-abrams_reclean_0p805_14p805
 source_path: raw_sources\MLB_776950_jose-altuve-lines-out-to-shortstop-cj-abrams_CJ_Abrams_leaping_snag_CJ_Abrams_leaping_snag_CJ_Abrams_leaping_snag_CJ_Abrams_hurdles_at_a_line_drive_from_Jose_A.mp4
-clip_start_time: 0.780
-clip_end_time: 7.780
+clip_start_time: 0.805
+clip_end_time: 14.805

@@ -1,7 +1,7 @@
 video_title: Ketel Marte's sweet diving catch Ketel Marte's sweet diving catch Ketel Marte's sweet diving catch Ketel Marte quickly dives to his left to catch a low line drive, robbing Dom Smith of a hit in the top of the 7th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/02/7e0109c6-5ed8c893-6820147f-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777278_dominic-smith-lines-out-sharply-to-second-baseman-ketel-marte
-clip_id: MLB_777278_dominic-smith-lines-out-sharply-to-second-baseman-ketel-marte_auto1_3p240_10p240
+clip_id: MLB_777278_dominic-smith-lines-out-sharply-to-second-baseman-ketel-marte_reclean_1p325_13p524
 source_path: raw_sources\MLB_777278_dominic-smith-lines-out-sharply-to-second-baseman-ketel-marte_Ketel_Marte_s_sweet_diving_catch_Ketel_Marte_s_sweet_diving_catch_Ketel_Marte_s_sweet_diving_catc.mp4
-clip_start_time: 3.240
-clip_end_time: 10.240
+clip_start_time: 1.325
+clip_end_time: 13.524

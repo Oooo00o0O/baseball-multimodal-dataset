@@ -1,7 +1,7 @@
 video_title: Isaac Collins' solo homer (4) Isaac Collins' solo homer (4) Isaac Collins' solo homer (4) Isaac Collins hits a deep fly ball to center field for his fourth home run of the year giving the Royals their second run of the game in the bottom of the 7th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/02/846e8668-f128d92b-fe3bf7b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824093_isaac-collins-homers-4-on-a-fly-ball-to-center-field
-clip_id: MLB_824093_isaac-collins-homers-4-on-a-fly-ball-to-center-field_head_0p000_7p000
+clip_id: MLB_824093_isaac-collins-homers-4-on-a-fly-ball-to-center-field_reclean_0p000_12p995
 source_path: raw_sources\MLB_824093_isaac-collins-homers-4-on-a-fly-ball-to-center-field_Isaac_Collins_solo_homer_4_Isaac_Collins_solo_homer_4_Isaac_Collins_solo_homer_4.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.995

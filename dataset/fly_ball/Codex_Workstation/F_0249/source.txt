@@ -1,7 +1,7 @@
 video_title: Michael Harris II's stellar diving catch  Michael Harris II's stellar diving catch  Michael Harris II's stellar diving catch Michael Harris II races towards the infield, dives, and makes the catch on a sinking line drive to retire Jackson Merrill in the 8th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/0dc65e75-8069fa69-e3e634e2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777803_jackson-merrill-lines-out-to-center-fielder-michael-harris-ii
-clip_id: MLB_777803_jackson-merrill-lines-out-to-center-fielder-michael-harris-ii_auto1_0p000_7p000
+clip_id: MLB_777803_jackson-merrill-lines-out-to-center-fielder-michael-harris-ii_reclean_0p000_13p695
 source_path: raw_sources\MLB_777803_jackson-merrill-lines-out-to-center-fielder-michael-harris-ii_Michael_Harris_II_s_stellar_diving_catch_Michael_Harris_II_s_stellar_diving_catch_Michael_Harris_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.695

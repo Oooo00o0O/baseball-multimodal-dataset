@@ -1,7 +1,7 @@
 video_title: Matt Festa escapes a bases-loaded jam Matt Festa escapes a bases-loaded jam Matt Festa escapes a bases-loaded jam Sal Stewart flies out to center fielder Steven Kwan.
 video_url: https://bdata-producedclips.mlb.com/7fada2ba-8d8f-42ae-a1a3-1f492dc53a2e.mp4
 source_id: MLB_824439_matt-festa-in-play-out-s-to-sal-stewart
-clip_id: MLB_824439_matt-festa-in-play-out-s-to-sal-stewart_head_0p000_7p000
+clip_id: MLB_824439_matt-festa-in-play-out-s-to-sal-stewart_reclean_1p455_12p861
 source_path: raw_sources\MLB_824439_matt-festa-in-play-out-s-to-sal-stewart_Matt_Festa_escapes_a_bases-loaded_jam_Matt_Festa_escapes_a_bases-loaded_jam_Matt.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.455
+clip_end_time: 12.861

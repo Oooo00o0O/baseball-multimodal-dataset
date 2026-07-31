@@ -1,7 +1,7 @@
 video_title: Tommy Pham's two-run home run (5) Tommy Pham's two-run home run (5) Tommy Pham's two-run home run (5) Tommy Pham crushes a line drive to center field in the top of the 1st inning to give the Pirates an early 3-0 lead
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/03/043e3e2f-b6001a5e-d397a644-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776886_bradley-blalock-in-play-run-s-to-tommy-pham
-clip_id: MLB_776886_bradley-blalock-in-play-run-s-to-tommy-pham_auto1_0p000_7p000
+clip_id: MLB_776886_bradley-blalock-in-play-run-s-to-tommy-pham_reclean_0p000_13p735
 source_path: raw_sources\MLB_776886_bradley-blalock-in-play-run-s-to-tommy-pham_Tommy_Pham_s_two-run_home_run_5_Tommy_Pham_s_two-run_home_run_5_Tommy_Pham_s_two-run_home_run_5_Tommy_Pham_crushes_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.735

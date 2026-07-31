@@ -1,7 +1,7 @@
 video_title: J.C. Escarra's sacrifice fly scores Anthony Volpe J.C. Escarra's sacrifice fly scores Anthony Volpe J.C. Escarra's sacrifice fly scores Anthony Volpe J.C. Escarra hits a fly ball to right, while Anthony Volpe tags and scores with an incredible slide in the bottom of the 4th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/77ad4c9f-23be9d6a-2cfa8e43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823549_patrick-corbin-in-play-run-s-to-j-c-escarra
-clip_id: MLB_823549_patrick-corbin-in-play-run-s-to-j-c-escarra_head_0p000_7p000
+clip_id: MLB_823549_patrick-corbin-in-play-run-s-to-j-c-escarra_reclean_0p000_13p845
 source_path: raw_sources\MLB_823549_patrick-corbin-in-play-run-s-to-j-c-escarra_J.C._Escarra_s_sacrifice_fly_scores_Anthony_Volpe_J.C._Escarra_s_sacrifice_fly_s.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.845

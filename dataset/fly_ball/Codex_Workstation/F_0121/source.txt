@@ -1,7 +1,7 @@
 video_title: Tyler Soderstrom's RBI single Tyler Soderstrom's RBI single Tyler Soderstrom's RBI single Tyler Soderstrom singles on a pop fly to the infield to extend the Athletics' lead to 5-1 in the bottom of the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/03/08bfd8c7-bc292985-f6ecd210-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7
-clip_id: MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7_auto1_0p000_7p000
+clip_id: MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7_reclean_0p000_13p435
 source_path: raw_sources\MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7_Tyler_Soderstrom_s_RBI_single_Tyler_Soderstrom_s_RBI_single_Tyler_Soderstrom_s_R.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.435

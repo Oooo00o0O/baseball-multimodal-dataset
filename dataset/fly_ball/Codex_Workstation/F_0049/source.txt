@@ -1,7 +1,7 @@
 video_title: Kazuma Okamoto's RBI single Kazuma Okamoto's RBI single Kazuma Okamoto's RBI single Kazuma Okamoto singles on a line drive to left field, scoring Ernie Clement to put the Blue Jays on the board in the 2nd inning
 video_url: https://bdata-producedclips.mlb.com/d81d771e-02cd-4511-ac77-e509caba2498.mp4
 source_id: MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto
-clip_id: MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto_head_0p000_7p000
+clip_id: MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto_reclean_1p455_15p455
 source_path: raw_sources\MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto_Kazuma_Okamoto_s_RBI_single_Kazuma_Okamoto_s_RBI_single_Kazuma_Okamoto_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.455
+clip_end_time: 15.455

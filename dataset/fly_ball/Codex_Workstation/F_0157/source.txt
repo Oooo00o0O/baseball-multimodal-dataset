@@ -1,7 +1,7 @@
 video_title: Yainer Diaz's two-run single Yainer Diaz's two-run single Yainer Diaz's two-run single Yainer Diaz rips a line drive to right field for a single, driving home Alex Bregman and Kyle Tucker to extend the Astros' lead to 7-2
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/02/5aa97b96-14a71658-7b44234c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746403_tyler-beede-in-play-run-s-to-yainer-diaz
-clip_id: MLB_746403_tyler-beede-in-play-run-s-to-yainer-diaz_auto1_15p220_22p220
+clip_id: MLB_746403_tyler-beede-in-play-run-s-to-yainer-diaz_reclean_13p285_27p285
 source_path: raw_sources\MLB_746403_tyler-beede-in-play-run-s-to-yainer-diaz_Yainer_Diaz_s_two-run_single_Yainer_Diaz_s_two-run_single_Yainer_Diaz_s_two-run_.mp4
-clip_start_time: 15.220
-clip_end_time: 22.220
+clip_start_time: 13.285
+clip_end_time: 27.285

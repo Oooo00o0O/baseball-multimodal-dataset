@@ -1,7 +1,7 @@
 video_title: William Contreras' sacrifice fly William Contreras' sacrifice fly William Contreras' sacrifice fly William Contreras hits a fly ball to right field deep enough for Sal Frelick to score from third base, giving the Brewers the lead with a score of 2-1
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/13/5c3ea042-d3133c1d-e7e14192-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777525_erick-fedde-in-play-run-s-to-william-contreras-kkfemm
-clip_id: MLB_777525_erick-fedde-in-play-run-s-to-william-contreras-kkfemm_auto1_1p380_8p380
+clip_id: MLB_777525_erick-fedde-in-play-run-s-to-william-contreras-kkfemm_reclean_1p395_15p395
 source_path: raw_sources\MLB_777525_erick-fedde-in-play-run-s-to-william-contreras-kkfemm_William_Contreras_sacrifice_fly_William_Contreras_sacrifice_fly_William_Contreras_sacrifice_fly_William_C.mp4
-clip_start_time: 1.380
-clip_end_time: 8.380
+clip_start_time: 1.395
+clip_end_time: 15.395

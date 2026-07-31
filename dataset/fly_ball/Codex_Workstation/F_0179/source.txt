@@ -1,7 +1,7 @@
 video_title: Lane Thomas goes deep (4) Lane Thomas goes deep (4) Lane Thomas goes deep (4) Lane Thomas homers on a line drive to left-center field, extending the Nationals' lead to 2-0 in the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/77dbf64c-e2f70191-c68f25a0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_744844_lane-thomas-homers-4-on-a-line-drive-to-left-center-field
-clip_id: MLB_744844_lane-thomas-homers-4-on-a-line-drive-to-left-center-field_auto1_16p240_23p240
+clip_id: MLB_744844_lane-thomas-homers-4-on-a-line-drive-to-left-center-field_reclean_17p055_23p240
 source_path: raw_sources\MLB_744844_lane-thomas-homers-4-on-a-line-drive-to-left-center-field_Lane_Thomas_goes_deep_4_Lane_Thomas_goes_deep_4_Lane_Thomas_goes_deep_4_Lane_Tho.mp4
-clip_start_time: 16.240
+clip_start_time: 17.055
 clip_end_time: 23.240

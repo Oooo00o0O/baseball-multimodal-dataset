@@ -1,7 +1,7 @@
 video_title: Jake McCarthy's triple Jake McCarthy's triple Jake McCarthy triples (6) to right-center field Jake McCarthy triples (6) on a deep fly ball to right-center field
 video_url: https://bdata-producedclips.mlb.com/e17a709f-a5fb-4d00-a49d-08c797ff8164.mp4
 source_id: MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy
-clip_id: MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy_head_0p000_7p000
+clip_id: MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy_reclean_1p465_15p465
 source_path: raw_sources\MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy_Jake_McCarthy_s_triple_Jake_McCarthy_s_triple_Jake_McCarthy_triples_6_to_right-c.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.465
+clip_end_time: 15.465

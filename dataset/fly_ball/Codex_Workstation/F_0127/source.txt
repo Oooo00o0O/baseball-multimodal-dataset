@@ -1,7 +1,7 @@
 video_title: Marsee, Lopez, Pauley turn two on Acuña Jr.'s flyout Marsee, Lopez, Pauley turn two on Acuña Jr.'s flyout Marsee, Lopez, Pauley turn two on Acuña Jr.'s flyout Jakob Marsee catches a fly ball and relays to Otto Lopez, who tags out Dominic Smith at third for a double play
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/13/563a7d15-816df037-ff45fbfb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261
-clip_id: MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261_auto1_0p000_7p000
+clip_id: MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261_reclean_0p000_13p385
 source_path: raw_sources\MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261_Marsee_Lopez_Pauley_turn_two_on_Acu_a_Jr._s_flyout_Marsee_Lopez_Pauley_turn_two_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.385

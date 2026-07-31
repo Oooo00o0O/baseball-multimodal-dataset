@@ -1,7 +1,7 @@
 video_title: Cole Young's go-ahead triple Cole Young's go-ahead triple Cole Young's go-ahead triple Cole Young triples on a fly ball to right field, scoring Luke Raley, giving the Mariners a 1-0 lead in the top of the 10th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/03/ecf645b5-8c23ee91-312c7cf0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824056_cole-young-s-rbi-triple-x7972
-clip_id: MLB_824056_cole-young-s-rbi-triple-x7972_auto1_0p040_7p040
+clip_id: MLB_824056_cole-young-s-rbi-triple-x7972_reclean_1p935_15p935
 source_path: raw_sources\MLB_824056_cole-young-s-rbi-triple-x7972_Cole_Young_s_go-ahead_triple_Cole_Young_s_go-ahead_triple_Cole_Young_s_go-ahead_.mp4
-clip_start_time: 0.040
-clip_end_time: 7.040
+clip_start_time: 1.935
+clip_end_time: 15.935

@@ -1,7 +1,7 @@
 video_title: Austin Martin makes the catch for the Twins win Austin Martin makes the catch for the Twins win Austin Martin makes the catch for the Twins win Austin Martin catches LuJames Groover fly ball in left field for the Twins win
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/036ebf05-2b922ff4-24d7c5ba-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_825068_lujames-groover-flies-out-to-left-fielder-austin-martin
-clip_id: MLB_825068_lujames-groover-flies-out-to-left-fielder-austin-martin_head_0p000_7p000
+clip_id: MLB_825068_lujames-groover-flies-out-to-left-fielder-austin-martin_reclean_2p015_16p015
 source_path: raw_sources\MLB_825068_lujames-groover-flies-out-to-left-fielder-austin-martin_Austin_Martin_makes_the_catch_for_the_Twins_win_Austin_Martin_makes_the_catch_fo.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.015
+clip_end_time: 16.015

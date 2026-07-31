@@ -1,7 +1,7 @@
 video_title: Teoscar Hernández's run-saving catch Teoscar Hernández's run-saving catch Teoscar Hernández's run-saving catch Teoscar Hernández chases down a sharp line drive to make an inning-ending grab on Ramón Laureano, keeping the game tied in the 7th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/cae30b99-c8d99ddf-78e668b5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823302_tanner-scott-in-play-out-s-to-ramon-laureano-sjmzaq
-clip_id: MLB_823302_tanner-scott-in-play-out-s-to-ramon-laureano-sjmzaq_head_0p000_7p000
+clip_id: MLB_823302_tanner-scott-in-play-out-s-to-ramon-laureano-sjmzaq_reclean_0p000_12p865
 source_path: raw_sources\MLB_823302_tanner-scott-in-play-out-s-to-ramon-laureano-sjmzaq_Teoscar_Hern_ndez_s_run-saving_catch_Teoscar_Hern_ndez_s_run-saving_catch_Teosca.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.865

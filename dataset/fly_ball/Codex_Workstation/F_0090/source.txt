@@ -1,7 +1,7 @@
 video_title: Elly De La Cruz's line drive single Elly De La Cruz's line drive single Elly De La Cruz's line drive single Elly De La Cruz lines a single to left field for his 6th straight multi-hit game
 video_url: https://bdata-producedclips.mlb.com/a12f753e-e413-44ca-993d-95ac94086f50.mp4
 source_id: MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-daylen-lile
-clip_id: MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-daylen-lile_head_0p000_7p000
+clip_id: MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-daylen-lile_reclean_1p445_15p316
 source_path: raw_sources\MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-daylen-lile_Elly_De_La_Cruz_s_line_drive_single_Elly_De_La_Cruz_s_line_drive_single_Elly_De_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.445
+clip_end_time: 15.316

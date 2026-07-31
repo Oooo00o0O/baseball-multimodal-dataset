@@ -1,7 +1,7 @@
 video_title: Christopher Morel brings in Seiya Suzuki with sac fly Christopher Morel brings in Seiya Suzuki with sac fly Christopher Morel brings in Seiya Suzuki with sac fly Christopher Morel lifts a fly ball to left field deep enough for Seiya Suzuki to tag up and score in the bottom of the 6th
 video_url: https://bdata-producedclips.mlb.com/e8ad1b6e-7190-4d0f-a617-8c08b0795b0c.mp4
 source_id: MLB_746880_christopher-morel-out-on-a-sacrifice-fly-to-left-fielder-connor-joe-s
-clip_id: MLB_746880_christopher-morel-out-on-a-sacrifice-fly-to-left-fielder-connor-joe-s_auto1_5p440_12p440
+clip_id: MLB_746880_christopher-morel-out-on-a-sacrifice-fly-to-left-fielder-connor-joe-s_reclean_3p895_17p895
 source_path: raw_sources\MLB_746880_christopher-morel-out-on-a-sacrifice-fly-to-left-fielder-connor-joe-s_Christopher_Morel_brings_in_Seiya_Suzuki_with_sac_fly_Christopher_Morel_brings_i.mp4
-clip_start_time: 5.440
-clip_end_time: 12.440
+clip_start_time: 3.895
+clip_end_time: 17.895

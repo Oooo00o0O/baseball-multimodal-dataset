@@ -1,7 +1,7 @@
 video_title: Two runs score on error on Salvador Perez's liner Two runs score on error on Salvador Perez's liner Two runs score on error on Salvador Perez's liner Chandler Simpson misplays Salvador Perez's line drive, allowing two to score and the Royals to get on the board in the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/a7a3c811-e98d5763-aab8ced6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441
-clip_id: MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441_head_0p000_7p000
+clip_id: MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441_reclean_0p000_12p755
 source_path: raw_sources\MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441_Two_runs_score_on_error_on_Salvador_Perez_s_liner_Two_runs_score_on_error_on_Sal.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.755

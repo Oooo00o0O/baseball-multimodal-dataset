@@ -1,7 +1,7 @@
 video_title: Henry Bolte's catch for the A's win Henry Bolte's catch for the A's win Henry Bolte's catch for the A's win Henry Bolte catches Ian Happ's fly ball in center field for the A's 2-1 against the Cubs
 video_url: https://bdata-producedclips.mlb.com/496bb116-24b2-4c17-b8c1-ee6a9c9ba18b.mp4
 source_id: MLB_824675_ian-happ-flies-out-to-center-fielder-henry-bolte
-clip_id: MLB_824675_ian-happ-flies-out-to-center-fielder-henry-bolte_head_0p000_7p000
+clip_id: MLB_824675_ian-happ-flies-out-to-center-fielder-henry-bolte_reclean_1p455_11p881
 source_path: raw_sources\MLB_824675_ian-happ-flies-out-to-center-fielder-henry-bolte_Henry_Bolte_s_catch_for_the_A_s_win_Henry_Bolte_s_catch_for_the_A_s_win_Henry_Bo.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.455
+clip_end_time: 11.881

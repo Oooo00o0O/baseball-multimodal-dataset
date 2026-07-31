@@ -1,7 +1,7 @@
 video_title: José Caballero's nice catch at the track José Caballero's nice catch at the track José Caballero's nice catch at the track José Caballero tracks down a fly ball hit by JJ Bleday deep to the warning track in left field and makes a nice catch to end the top of the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/f34577dc-e373d9dc-141db2aa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero
-clip_id: MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero_head_0p000_7p000
+clip_id: MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero_reclean_1p725_15p725
 source_path: raw_sources\MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero_Jos_Caballero_s_nice_catch_at_the_track_Jos_Caballero_s_nice_catch_at_the_track_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.725
+clip_end_time: 15.725

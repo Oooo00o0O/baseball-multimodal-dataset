@@ -1,7 +1,7 @@
 video_title: Brice Matthews makes the catch to end threat in 7th Brice Matthews makes the catch to end threat in 7th Brice Matthews makes the catch to end threat in 7th Brice Matthews catches Andrew McCutchen's fly ball in center field to end the top of the 7th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/755bd8ff-cfd89287-af686b38-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824193_bryan-king-in-play-out-s-to-andrew-mccutchen-cngzjp
-clip_id: MLB_824193_bryan-king-in-play-out-s-to-andrew-mccutchen-cngzjp_head_0p000_7p000
+clip_id: MLB_824193_bryan-king-in-play-out-s-to-andrew-mccutchen-cngzjp_reclean_0p000_13p475
 source_path: raw_sources\MLB_824193_bryan-king-in-play-out-s-to-andrew-mccutchen-cngzjp_Brice_Matthews_makes_the_catch_to_end_threat_in_7th_Brice_Matthews_makes_the_cat.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.475

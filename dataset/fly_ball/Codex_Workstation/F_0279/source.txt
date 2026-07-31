@@ -1,7 +1,7 @@
 video_title: Cade Smith seals the Guardians' win Cade Smith seals the Guardians' win Cade Smith seals the Guardians' win Gabriel Arias snags a liner for the final out, sealing the Guardians' 9-4 victory over the Marlins
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/14/ed836cb0-e9c8b712-28744db5-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_776745_liam-hicks-lines-out-to-shortstop-gabriel-arias
-clip_id: MLB_776745_liam-hicks-lines-out-to-shortstop-gabriel-arias_auto1_3p460_10p460
+clip_id: MLB_776745_liam-hicks-lines-out-to-shortstop-gabriel-arias_reclean_2p065_10p472
 source_path: raw_sources\MLB_776745_liam-hicks-lines-out-to-shortstop-gabriel-arias_Cade_Smith_seals_the_Guardians_win_Cade_Smith_seals_the_Guardians_win_Cade_Smith_seals_the_Guardians_win_Gabrie.mp4
-clip_start_time: 3.460
-clip_end_time: 10.460
+clip_start_time: 2.065
+clip_end_time: 10.472

@@ -1,7 +1,7 @@
 video_title: Michael Busch's RBI double Michael Busch's RBI double Michael Busch's RBI double Michael Busch doubles on a line drive to right field, extending the Cubs' lead to 3-1 in the 5th inning
 video_url: https://bdata-producedclips.mlb.com/3a96a0fd-8313-4807-8217-e13d45630a72.mp4
 source_id: MLB_824601_sean-burke-in-play-no-out-to-michael-busch
-clip_id: MLB_824601_sean-burke-in-play-no-out-to-michael-busch_head_0p000_7p000
+clip_id: MLB_824601_sean-burke-in-play-no-out-to-michael-busch_reclean_1p265_15p265
 source_path: raw_sources\MLB_824601_sean-burke-in-play-no-out-to-michael-busch_Michael_Busch_s_RBI_double_Michael_Busch_s_RBI_double_Michael_Busch_s_RBI_double.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.265
+clip_end_time: 15.265

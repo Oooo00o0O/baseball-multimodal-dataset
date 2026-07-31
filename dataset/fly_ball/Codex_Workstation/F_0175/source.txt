@@ -1,7 +1,7 @@
 video_title: Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino hits a long fly ball into the left-field corner for a sacrifice fly
 video_url: https://bdata-producedclips.mlb.com/19eb152e-5b05-4551-b84f-df7d78b7b14c.mp4
 source_id: MLB_746307_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-riley-green
-clip_id: MLB_746307_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-riley-green_auto1_1p400_8p400
+clip_id: MLB_746307_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-riley-green_reclean_1p415_15p415
 source_path: raw_sources\MLB_746307_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-riley-green_Vinnie_Pasquantino_s_sacrifice_fly_Vinnie_Pasquantino_s_sacrifice_fly_Vinnie_Pas.mp4
-clip_start_time: 1.400
-clip_end_time: 8.400
+clip_start_time: 1.415
+clip_end_time: 15.415

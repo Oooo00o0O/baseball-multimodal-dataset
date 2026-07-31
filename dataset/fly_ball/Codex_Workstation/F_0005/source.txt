@@ -1,7 +1,7 @@
 video_title: Juan Mejia escapes bases-loaded jam in the 6th Juan Mejia escapes bases-loaded jam in the 6th Juan Mejia escapes bases-loaded jam in the 6th Juan Mejia induces a fly ball caught by Jake McCarthy in foul territory to escape a bases-loaded jam in the top of the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/343529c4-317750c4-ea1a9a65-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824334_juan-mejia-in-play-out-s-to-bryce-eldridge-bglct6
-clip_id: MLB_824334_juan-mejia-in-play-out-s-to-bryce-eldridge-bglct6_head_0p000_7p000
+clip_id: MLB_824334_juan-mejia-in-play-out-s-to-bryce-eldridge-bglct6_reclean_0p000_13p635
 source_path: raw_sources\MLB_824334_juan-mejia-in-play-out-s-to-bryce-eldridge-bglct6_Juan_Mejia_escapes_bases-loaded_jam_in_the_6th_Juan_Mejia_escapes_bases-loaded_j.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.635

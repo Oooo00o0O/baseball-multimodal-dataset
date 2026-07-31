@@ -1,7 +1,7 @@
 video_title: Aaron Bummer snags comebacker Aaron Bummer snags comebacker Aaron Bummer snags comebacker Aaron Bummer snares a sharp line drive off the bat of Isaac Collins to end the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/10/520af8f3-bd210cce-53547f53-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777568_isaac-collins-lines-out-to-pitcher-aaron-bummer
-clip_id: MLB_777568_isaac-collins-lines-out-to-pitcher-aaron-bummer_auto1_1p420_8p420
+clip_id: MLB_777568_isaac-collins-lines-out-to-pitcher-aaron-bummer_reclean_0p000_9p726
 source_path: raw_sources\MLB_777568_isaac-collins-lines-out-to-pitcher-aaron-bummer_Aaron_Bummer_snags_comebacker_Aaron_Bummer_snags_comebacker_Aaron_Bummer_snags_comebacker_Aaron_Bummer_snares_a.mp4
-clip_start_time: 1.420
-clip_end_time: 8.420
+clip_start_time: 0.000
+clip_end_time: 9.726

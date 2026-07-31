@@ -1,7 +1,7 @@
 video_title: Jose Altuve's sacrifice fly Jose Altuve's sacrifice fly Jose Altuve's sacrifice fly Jose Altuve hits a fly ball to right field deep enough for Jeremy Peña to score for a 6-2 lead
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/06/930dc425-a5a1351e-5259cba5-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777630_kyle-nicolas-in-play-run-s-to-jose-altuve
-clip_id: MLB_777630_kyle-nicolas-in-play-run-s-to-jose-altuve_auto1_1p440_8p440
+clip_id: MLB_777630_kyle-nicolas-in-play-run-s-to-jose-altuve_reclean_1p445_15p445
 source_path: raw_sources\MLB_777630_kyle-nicolas-in-play-run-s-to-jose-altuve_Jose_Altuve_s_sacrifice_fly_Jose_Altuve_s_sacrifice_fly_Jose_Altuve_s_sacrifice_fly_Jose_Altuve_hits_a_fly_ball_to_ri.mp4
-clip_start_time: 1.440
-clip_end_time: 8.440
+clip_start_time: 1.445
+clip_end_time: 15.445

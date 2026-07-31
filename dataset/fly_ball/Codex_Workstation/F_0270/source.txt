@@ -1,7 +1,7 @@
 video_title: Willi Castro's RBI double Willi Castro's RBI double Willi Castro's RBI double Willi Castro doubles on a line drive down the left field line, scoring Ty France cutting the Twins' deficit to 13-2 in the bottom of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/12/d05236be-7f91e9f7-0bb12ebc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777533_willi-castro-s-rbi-double-x5234
-clip_id: MLB_777533_willi-castro-s-rbi-double-x5234_auto1_1p460_8p460
+clip_id: MLB_777533_willi-castro-s-rbi-double-x5234_reclean_0p000_13p785
 source_path: raw_sources\MLB_777533_willi-castro-s-rbi-double-x5234_Willi_Castro_s_RBI_double_Willi_Castro_s_RBI_double_Willi_Castro_s_RBI_double_Willi_Castro_doubles_on_a_line_drive_down_the_lef.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460
+clip_start_time: 0.000
+clip_end_time: 13.785

@@ -1,7 +1,7 @@
 video_title: Bryson Stott makes a wild diving catch Bryson Stott makes a wild diving catch Bryson Stott makes a wild diving catch Ranger Suárez avoids a line drive from Elehuris Montero before Bryson Stott makes a diving catch for the out
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/d6f635eb-a276fbc2-cff09d2c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746557_ranger-suarez-in-play-out-s-to-elehuris-montero-4k8y78
-clip_id: MLB_746557_ranger-suarez-in-play-out-s-to-elehuris-montero-4k8y78_auto1_0p620_7p620
+clip_id: MLB_746557_ranger-suarez-in-play-out-s-to-elehuris-montero-4k8y78_reclean_0p000_13p015
 source_path: raw_sources\MLB_746557_ranger-suarez-in-play-out-s-to-elehuris-montero-4k8y78_Bryson_Stott_makes_a_wild_diving_catch_Bryson_Stott_makes_a_wild_diving_catch_Br.mp4
-clip_start_time: 0.620
-clip_end_time: 7.620
+clip_start_time: 0.000
+clip_end_time: 13.015

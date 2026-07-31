@@ -1,7 +1,7 @@
 video_title: Jonny DeLuca makes a nice leaping catch Jonny DeLuca makes a nice leaping catch Jonny DeLuca makes a nice leaping catch Jonny DeLuca uses his speed to track down a fly ball in left-center field and makes a nice leaping catch to end the top of the 1st
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/cfdaffa1-e12f60c7-063a4043-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745091_brent-rooker-flies-out-sharply-to-center-fielder-jonny-deluca
-clip_id: MLB_745091_brent-rooker-flies-out-sharply-to-center-fielder-jonny-deluca_auto1_0p000_7p000
+clip_id: MLB_745091_brent-rooker-flies-out-sharply-to-center-fielder-jonny-deluca_reclean_0p000_13p105
 source_path: raw_sources\MLB_745091_brent-rooker-flies-out-sharply-to-center-fielder-jonny-deluca_Jonny_DeLuca_makes_a_nice_leaping_catch_Jonny_DeLuca_makes_a_nice_leaping_catch_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.105

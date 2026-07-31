@@ -1,7 +1,7 @@
 video_title: Salvador Perez's RBI single Salvador Perez's RBI single Salvador Perez's RBI single Salvador Perez singles on a fly ball to center field, tying the game at 9 in the 5th innning
 video_url: https://bdata-producedclips.mlb.com/1bec25fe-b0bd-48b2-a016-752dd17e5ca9.mp4
 source_id: MLB_823607_huascar-brazoban-in-play-run-s-to-salvador-perez-osgjta
-clip_id: MLB_823607_huascar-brazoban-in-play-run-s-to-salvador-perez-osgjta_head_0p000_7p000
+clip_id: MLB_823607_huascar-brazoban-in-play-run-s-to-salvador-perez-osgjta_reclean_1p365_15p365
 source_path: raw_sources\MLB_823607_huascar-brazoban-in-play-run-s-to-salvador-perez-osgjta_Salvador_Perez_s_RBI_single_Salvador_Perez_s_RBI_single_Salvador_Perez_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.365
+clip_end_time: 15.365

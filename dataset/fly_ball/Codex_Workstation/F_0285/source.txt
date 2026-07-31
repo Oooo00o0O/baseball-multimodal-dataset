@@ -1,7 +1,7 @@
 video_title: Gustavo Campero's unique RBI forceout  Gustavo Campero's unique RBI forceout  Gustavo Campero's unique RBI forceout  Gustavo Campero skies a fly ball to right field and Jo Adell scores from third base after the ball is dropped in the bottom of the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/3e7c42c6-ad39c1b0-c5554f5b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776945_gustavo-campero-flies-into-a-force-out-right-fielder-adolis-garcia-to
-clip_id: MLB_776945_gustavo-campero-flies-into-a-force-out-right-fielder-adolis-garcia-to_auto1_0p000_7p000
+clip_id: MLB_776945_gustavo-campero-flies-into-a-force-out-right-fielder-adolis-garcia-to_reclean_0p000_13p085
 source_path: raw_sources\MLB_776945_gustavo-campero-flies-into-a-force-out-right-fielder-adolis-garcia-to_Gustavo_Campero_s_unique_RBI_forceout_Gustavo_Campero_s_unique_RBI_forceout_Gustavo_Campe.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.085

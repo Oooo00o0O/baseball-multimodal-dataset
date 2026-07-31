@@ -1,7 +1,7 @@
 video_title: Dominic Smith's two-run double Dominic Smith's two-run double Dominic Smith's two-run double Dominic Smith hits a fly ball to left fielder Manuel Margot, who loses the ball in the sun, allowing Smith to reach second and drive home two runs
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/05/0c05d6cd-8bb6dccb-750e6a25-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel-margot-w
-clip_id: MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel-margot-w_auto1_0p080_7p080
+clip_id: MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel-margot-w_reclean_0p105_14p105
 source_path: raw_sources\MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel-margot-w_Dominic_Smith_s_two-run_double_Dominic_Smith_s_two-run_double_Dominic_Smith_s_tw.mp4
-clip_start_time: 0.080
-clip_end_time: 7.080
+clip_start_time: 0.105
+clip_end_time: 14.105

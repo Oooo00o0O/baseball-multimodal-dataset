@@ -1,7 +1,7 @@
 video_title: Seiya Suzuki knocks in Mike Tauchman with sac fly Seiya Suzuki knocks in Mike Tauchman with sac fly Seiya Suzuki knocks in Mike Tauchman with sac fly Seiya Suzuki lifts a fly ball to center deep enough for Mike Tauchman to tag up and score the first run of the game for the Cubs
 video_url: https://bdata-producedclips.mlb.com/d2fae8df-0d2f-4568-90dc-831af3491450.mp4
 source_id: MLB_746880_mitch-keller-in-play-run-s-to-seiya-suzuki
-clip_id: MLB_746880_mitch-keller-in-play-run-s-to-seiya-suzuki_auto1_1p320_8p320
+clip_id: MLB_746880_mitch-keller-in-play-run-s-to-seiya-suzuki_reclean_1p345_15p345
 source_path: raw_sources\MLB_746880_mitch-keller-in-play-run-s-to-seiya-suzuki_Seiya_Suzuki_knocks_in_Mike_Tauchman_with_sac_fly_Seiya_Suzuki_knocks_in_Mike_Ta.mp4
-clip_start_time: 1.320
-clip_end_time: 8.320
+clip_start_time: 1.345
+clip_end_time: 15.345

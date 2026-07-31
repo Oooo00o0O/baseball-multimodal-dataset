@@ -1,7 +1,7 @@
 video_title: Ian Happ's RBI single Ian Happ's RBI single Ian Happ's RBI single Ian Happ singles on a line drive to center field, giving the Cubs a 1-0 lead in the 1st inning
 video_url: https://bdata-producedclips.mlb.com/7e0721ce-bc4d-4fba-80af-16855b0c818f.mp4
 source_id: MLB_824601_sean-burke-in-play-run-s-to-ian-happ
-clip_id: MLB_824601_sean-burke-in-play-run-s-to-ian-happ_head_0p000_7p000
+clip_id: MLB_824601_sean-burke-in-play-run-s-to-ian-happ_reclean_1p345_15p345
 source_path: raw_sources\MLB_824601_sean-burke-in-play-run-s-to-ian-happ_Ian_Happ_s_RBI_single_Ian_Happ_s_RBI_single_Ian_Happ_s_RBI_single_Ian_Happ_singl.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.345
+clip_end_time: 15.345

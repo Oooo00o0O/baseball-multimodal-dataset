@@ -1,7 +1,7 @@
 video_title: Caleb Boushley seals Rangers' win Caleb Boushley seals Rangers' win Caleb Boushley seals Rangers' win Caleb Boushley seals Rangers' win by forcing Kody Clemens into a pop fly in center field
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/10/04086e68-31343356-7b571a35-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777557_kody-clemens-lines-out-sharply-to-center-fielder-evan-carter
-clip_id: MLB_777557_kody-clemens-lines-out-sharply-to-center-fielder-evan-carter_auto1_1p540_8p540
+clip_id: MLB_777557_kody-clemens-lines-out-sharply-to-center-fielder-evan-carter_reclean_1p555_11p496
 source_path: raw_sources\MLB_777557_kody-clemens-lines-out-sharply-to-center-fielder-evan-carter_Caleb_Boushley_seals_Rangers_win_Caleb_Boushley_seals_Rangers_win_Caleb_Boushley_seals_Rangers_win.mp4
-clip_start_time: 1.540
-clip_end_time: 8.540
+clip_start_time: 1.555
+clip_end_time: 11.496

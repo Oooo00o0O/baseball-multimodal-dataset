@@ -1,7 +1,7 @@
 video_title: Max Kepler's solo home run (6) Max Kepler's solo home run (6) Max Kepler's solo home run (6) Max Kepler homers on a fly ball to center field, cutting the Twins' deficit to 6-5 in the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/18/3f5d078b-75ae2e9d-c37f32e3-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745893_max-kepler-homers-6-on-a-fly-ball-to-center-field
-clip_id: MLB_745893_max-kepler-homers-6-on-a-fly-ball-to-center-field_auto1_6p480_13p480
+clip_id: MLB_745893_max-kepler-homers-6-on-a-fly-ball-to-center-field_reclean_6p495_20p495
 source_path: raw_sources\MLB_745893_max-kepler-homers-6-on-a-fly-ball-to-center-field_Max_Kepler_s_solo_home_run_6_Max_Kepler_s_solo_home_run_6_Max_Kepler_s_solo_home_run_6_Max_Kepler_homers_on_a.mp4
-clip_start_time: 6.480
-clip_end_time: 13.480
+clip_start_time: 6.495
+clip_end_time: 20.495

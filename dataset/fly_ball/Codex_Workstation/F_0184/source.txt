@@ -1,7 +1,7 @@
 video_title: Masyn Winn hits foul ball after review Masyn Winn hits foul ball after review Masyn Winn hits foul ball after review Masyn Winn's deep fly ball to left field stays foul after the call on the field stands following a review in the 9th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/1145acff-77d7ff7b-1abefcbf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745572_masyn-winn-hits-foul-ball-after-review
-clip_id: MLB_745572_masyn-winn-hits-foul-ball-after-review_auto1_0p000_7p000
+clip_id: MLB_745572_masyn-winn-hits-foul-ball-after-review_reclean_0p000_13p405
 source_path: raw_sources\MLB_745572_masyn-winn-hits-foul-ball-after-review_Masyn_Winn_hits_foul_ball_after_review_Masyn_Winn_hits_foul_ball_after_review_Ma.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.405

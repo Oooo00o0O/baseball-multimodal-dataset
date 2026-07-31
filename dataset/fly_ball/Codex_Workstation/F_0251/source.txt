@@ -1,7 +1,7 @@
 video_title: Matt McLain's leaping catch Matt McLain's leaping catch Matt McLain's leaping catch Matt McLain makes a sweet leaping catch on Matt Shaw's line drive for the first out in the top of the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/6a57b3c8-52142a3a-f885536b-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777811_matt-shaw-lines-out-sharply-to-second-baseman-matt-mclain
-clip_id: MLB_777811_matt-shaw-lines-out-sharply-to-second-baseman-matt-mclain_auto1_2p460_9p460
+clip_id: MLB_777811_matt-shaw-lines-out-sharply-to-second-baseman-matt-mclain_reclean_1p505_9p460
 source_path: raw_sources\MLB_777811_matt-shaw-lines-out-sharply-to-second-baseman-matt-mclain_Matt_McLain_s_leaping_catch_Matt_McLain_s_leaping_catch_Matt_McLain_s_leaping_catch_Matt_McLain_makes.mp4
-clip_start_time: 2.460
+clip_start_time: 1.505
 clip_end_time: 9.460

@@ -1,7 +1,7 @@
 video_title: Jeremy Peña's nice leaping grab Jeremy Peña's nice leaping grab Jeremy Peña's nice leaping grab Jeremy Peña makes a nice leaping grab off Colton Cowser's liner for the second out of the top of the 7th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/22/1e51ac54-217ab760-04cba8c5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746376_ronel-blanco-in-play-out-s-to-colton-cowser-tg7vac
-clip_id: MLB_746376_ronel-blanco-in-play-out-s-to-colton-cowser-tg7vac_auto1_0p000_7p000
+clip_id: MLB_746376_ronel-blanco-in-play-out-s-to-colton-cowser-tg7vac_reclean_0p000_12p385
 source_path: raw_sources\MLB_746376_ronel-blanco-in-play-out-s-to-colton-cowser-tg7vac_Jeremy_Pe_a_s_nice_leaping_grab_Jeremy_Pe_a_s_nice_leaping_grab_Jeremy_Pe_a_s_nice_leaping_grab_Jeremy_Pe_a_.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 12.385

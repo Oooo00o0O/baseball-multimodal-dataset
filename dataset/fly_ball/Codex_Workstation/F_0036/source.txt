@@ -1,7 +1,7 @@
 video_title: Kahlil Watson's RBI double Kahlil Watson's RBI double Kahlil Watson's RBI double Kahlil Watson doubles on a line drive to right field, putting the Guardians on the board in the bottom of the 4th inning
 video_url: https://bdata-producedclips.mlb.com/f01a02e8-610e-41f3-918c-d794a29742c1.mp4
 source_id: MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson
-clip_id: MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson_head_0p000_7p000
+clip_id: MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson_reclean_1p505_15p505
 source_path: raw_sources\MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson_Kahlil_Watson_s_RBI_double_Kahlil_Watson_s_RBI_double_Kahlil_Watson_s_RBI_double.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.505
+clip_end_time: 15.505

@@ -1,7 +1,7 @@
 video_title: Vinnie Pasquantino's diving catch Vinnie Pasquantino's diving catch Vinnie Pasquantino's diving catch Vinnie Pasquantino makes the quick dive to catch Cedric Mullins' liner in the bottom of the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/04/6e24839e-a26e461a-6f99aa82-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_778062_michael-lorenzen-in-play-out-s-to-cedric-mullins-dx5jmr
-clip_id: MLB_778062_michael-lorenzen-in-play-out-s-to-cedric-mullins-dx5jmr_auto1_1p180_8p180
+clip_id: MLB_778062_michael-lorenzen-in-play-out-s-to-cedric-mullins-dx5jmr_reclean_0p000_11p562
 source_path: raw_sources\MLB_778062_michael-lorenzen-in-play-out-s-to-cedric-mullins-dx5jmr_Vinnie_Pasquantino_s_diving_catch_Vinnie_Pasquantino_s_diving_catch_Vinnie_Pasquantino_s_diving_catch_V.mp4
-clip_start_time: 1.180
-clip_end_time: 8.180
+clip_start_time: 0.000
+clip_end_time: 11.562

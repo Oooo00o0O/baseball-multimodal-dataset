@@ -1,7 +1,7 @@
 video_title: Bailey Falter induces fly ball, escapes jam Bailey Falter induces fly ball, escapes jam Bailey Falter induces fly ball, escapes jam Bailey Falter induces a fly ball from Agustín Ramírez, recording the last out in the top of the 5th inning and keeping the Marlins scoreless
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/11/c2f66d6b-a085496c-0ba12a5e-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777552_agustin-ramirez-lines-out-sharply-to-right-fielder-bryan-reynolds
-clip_id: MLB_777552_agustin-ramirez-lines-out-sharply-to-right-fielder-bryan-reynolds_auto1_1p340_8p340
+clip_id: MLB_777552_agustin-ramirez-lines-out-sharply-to-right-fielder-bryan-reynolds_reclean_1p365_10p150
 source_path: raw_sources\MLB_777552_agustin-ramirez-lines-out-sharply-to-right-fielder-bryan-reynolds_Bailey_Falter_induces_fly_ball_escapes_jam_Bailey_Falter_induces_fly_ball_escapes_jam_Bailey_.mp4
-clip_start_time: 1.340
-clip_end_time: 8.340
+clip_start_time: 1.365
+clip_end_time: 10.150

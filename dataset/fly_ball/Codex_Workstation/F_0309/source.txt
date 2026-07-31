@@ -1,7 +1,7 @@
 video_title: Jackson Merrill's RBI double Jackson Merrill's RBI double Jackson Merrill's RBI double Jackson Merrill doubles on a fly ball to right field, sending home Xander Bogaerts to give the Padres an 8-1 lead in the 7th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/3e42c90b-40d6aff1-e4b0d1e6-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745386_brent-honeywell-in-play-run-s-to-jackson-merrill
-clip_id: MLB_745386_brent-honeywell-in-play-run-s-to-jackson-merrill_auto1_4p020_11p020
+clip_id: MLB_745386_brent-honeywell-in-play-run-s-to-jackson-merrill_reclean_3p985_17p985
 source_path: raw_sources\MLB_745386_brent-honeywell-in-play-run-s-to-jackson-merrill_Jackson_Merrill_s_RBI_double_Jackson_Merrill_s_RBI_double_Jackson_Merrill_s_RBI_double_Jackson_Merrill_doubles.mp4
-clip_start_time: 4.020
-clip_end_time: 11.020
+clip_start_time: 3.985
+clip_end_time: 17.985

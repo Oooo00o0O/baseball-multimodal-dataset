@@ -1,0 +1,16 @@
+{
+  "queue_recut_rows": 225,
+  "manifest_rows": 225,
+  "duplicates": 0,
+  "missing_results": 0,
+  "missing_result_paths": [],
+  "unexpected_results": 0,
+  "unexpected_result_paths": [],
+  "validation_counts": {
+    "pass": 225
+  },
+  "recut_status_counts": {
+    "recut_complete": 164,
+    "recut_partial_context": 61
+  }
+}

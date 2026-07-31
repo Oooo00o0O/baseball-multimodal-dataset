@@ -1,7 +1,7 @@
 video_title: Bryan King closes out 4-2 win Bryan King closes out 4-2 win Bryan King closes out 4-2 win Bryan King induces a pop fly to first base to earn the save in the Astros' 4-2 win over the Cubs
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/22/7f9d2445-7d74ddf2-150b77b2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker
-clip_id: MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker_head_0p000_7p000
+clip_id: MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker_reclean_0p000_13p375
 source_path: raw_sources\MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker_Bryan_King_closes_out_4-2_win_Bryan_King_closes_out_4-2_win_Bryan_King_closes_ou.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.375

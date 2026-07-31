@@ -1,7 +1,7 @@
 video_title: Zac Gallen escapes bases-loaded jam in 4th Zac Gallen escapes bases-loaded jam in 4th Zac Gallen escapes bases-loaded jam in 4th Zac Gallen induces a fly ball to center field to escapes bases-loaded jam in bottom of the 4th
 video_url: https://bdata-producedclips.mlb.com/56dfcf25-3e03-48b4-9d83-fd7303ee5938.mp4
 source_id: MLB_823858_otto-lopez-flies-out-to-center-fielder-ryan-waldschmidt
-clip_id: MLB_823858_otto-lopez-flies-out-to-center-fielder-ryan-waldschmidt_head_0p000_7p000
+clip_id: MLB_823858_otto-lopez-flies-out-to-center-fielder-ryan-waldschmidt_reclean_1p465_15p465
 source_path: raw_sources\MLB_823858_otto-lopez-flies-out-to-center-fielder-ryan-waldschmidt_Zac_Gallen_escapes_bases-loaded_jam_in_4th_Zac_Gallen_escapes_bases-loaded_jam_i.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.465
+clip_end_time: 15.465

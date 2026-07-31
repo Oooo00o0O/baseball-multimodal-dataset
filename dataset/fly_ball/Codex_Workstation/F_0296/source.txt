@@ -1,7 +1,7 @@
 video_title: Chandler Simpson's two-run triple Chandler Simpson's two-run triple Chandler Simpson's two-run triple Chandler Simpson triples on a line drive to center field, bringing home Carson Williams and Nick Fortes to extend the Rays' lead to 7-0 in the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/24/d68bfa2e-f4ad2476-1aa7098c-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_776606_chandler-simpson-triples-3-on-a-line-drive-to-center-fielder-lars-noo
-clip_id: MLB_776606_chandler-simpson-triples-3-on-a-line-drive-to-center-fielder-lars-noo_auto1_1p480_8p480
+clip_id: MLB_776606_chandler-simpson-triples-3-on-a-line-drive-to-center-fielder-lars-noo_reclean_1p505_15p505
 source_path: raw_sources\MLB_776606_chandler-simpson-triples-3-on-a-line-drive-to-center-fielder-lars-noo_Chandler_Simpson_s_two-run_triple_Chandler_Simpson_s_two-run_triple_Chandler_Simpson_s_tw.mp4
-clip_start_time: 1.480
-clip_end_time: 8.480
+clip_start_time: 1.505
+clip_end_time: 15.505

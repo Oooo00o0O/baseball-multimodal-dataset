@@ -1,7 +1,7 @@
 video_title: Bryson Stott's jumping catch Bryson Stott's jumping catch Bryson Stott's jumping catch Bryson Stott jumps straight up to snare a hard line drive and rob Iván Herrera of a hit
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/48219572-769578fa-08cd6da8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745574_aaron-nola-in-play-out-s-to-ivan-herrera-9hb2ch
-clip_id: MLB_745574_aaron-nola-in-play-out-s-to-ivan-herrera-9hb2ch_auto1_2p460_9p460
+clip_id: MLB_745574_aaron-nola-in-play-out-s-to-ivan-herrera-9hb2ch_reclean_1p085_15p085
 source_path: raw_sources\MLB_745574_aaron-nola-in-play-out-s-to-ivan-herrera-9hb2ch_Bryson_Stott_s_jumping_catch_Bryson_Stott_s_jumping_catch_Bryson_Stott_s_jumping.mp4
-clip_start_time: 2.460
-clip_end_time: 9.460
+clip_start_time: 1.085
+clip_end_time: 15.085

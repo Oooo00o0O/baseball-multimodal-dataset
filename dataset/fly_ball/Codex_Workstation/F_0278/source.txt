@@ -1,7 +1,7 @@
 video_title: Mike Trout's sac fly Mike Trout's sac fly Mike Trout's sac fly Mike Trout hits a fly ball deep enough for Zach Neto score from third base to make the score 5-2
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/09/2e4cca5e-1b5586e7-924782f8-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777576_mike-trout-out-on-a-sacrifice-fly-to-center-fielder-jj-bleday-zach-ne
-clip_id: MLB_777576_mike-trout-out-on-a-sacrifice-fly-to-center-fielder-jj-bleday-zach-ne_auto1_1p460_8p460
+clip_id: MLB_777576_mike-trout-out-on-a-sacrifice-fly-to-center-fielder-jj-bleday-zach-ne_reclean_1p465_15p465
 source_path: raw_sources\MLB_777576_mike-trout-out-on-a-sacrifice-fly-to-center-fielder-jj-bleday-zach-ne_Mike_Trout_s_sac_fly_Mike_Trout_s_sac_fly_Mike_Trout_s_sac_fly_Mike_Trout_hits_a_fly_ball.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460
+clip_start_time: 1.465
+clip_end_time: 15.465

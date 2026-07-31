@@ -1,7 +1,7 @@
 video_title: Luis Robert Jr.'s solo home run (2) Luis Robert Jr.'s solo home run (2) Luis Robert Jr.'s solo home run (2) Luis Robert Jr. homers on a line drive to center field for his second home run of the season
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/09/1ee9f037-d2ad6d2b-8b677b88-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr
-clip_id: MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr_auto1_0p000_7p000
+clip_id: MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr_reclean_0p735_14p735
 source_path: raw_sources\MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr_Luis_Robert_Jr._s_solo_home_run_2_Luis_Robert_Jr._s_solo_home_run_2_Luis_Robert_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 0.735
+clip_end_time: 14.735

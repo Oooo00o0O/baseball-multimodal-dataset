@@ -1,7 +1,7 @@
 video_title: Brandon Marsh makes catch to secure Phillies' win Brandon Marsh makes catch to secure Phillies' win Brandon Marsh makes catch to secure Phillies' win Brandon Marsh catches a line drive from Mike Tauchman, locking down the Phillies' 6-3 win over the White Sox
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/3be34d24-58ee18ab-c99be29b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776952_daniel-robert-in-play-out-s-to-mike-tauchman
-clip_id: MLB_776952_daniel-robert-in-play-out-s-to-mike-tauchman_auto1_0p000_7p000
+clip_id: MLB_776952_daniel-robert-in-play-out-s-to-mike-tauchman_reclean_0p000_13p615
 source_path: raw_sources\MLB_776952_daniel-robert-in-play-out-s-to-mike-tauchman_Brandon_Marsh_makes_catch_to_secure_Phillies_win_Brandon_Marsh_makes_catch_to_secure_Phillies_win_Brandon_Marsh_ma.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.615

@@ -1,7 +1,7 @@
 video_title: Oneil Cruz's nifty leaping catch Oneil Cruz's nifty leaping catch Oneil Cruz's nifty leaping catch Oneil Cruz tracks a Spencer Steer fly ball and makes a nice leaping catch in center field in the top of the 7th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/fc8f8977-b21767b1-0a527ee5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823388_yohan-ramirez-in-play-out-s-to-spencer-steer
-clip_id: MLB_823388_yohan-ramirez-in-play-out-s-to-spencer-steer_head_0p000_7p000
+clip_id: MLB_823388_yohan-ramirez-in-play-out-s-to-spencer-steer_reclean_0p285_14p285
 source_path: raw_sources\MLB_823388_yohan-ramirez-in-play-out-s-to-spencer-steer_Oneil_Cruz_s_nifty_leaping_catch_Oneil_Cruz_s_nifty_leaping_catch_Oneil_Cruz_s_n.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 0.285
+clip_end_time: 14.285

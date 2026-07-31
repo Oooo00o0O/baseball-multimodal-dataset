@@ -1,7 +1,7 @@
 video_title: Taijuan Walker snags a line drive  Taijuan Walker snags a line drive  Taijuan Walker snags a line drive  Taijuan Walker makes a nice snag on a line drive hit right back at him for the final out of the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/b0bc1471-dde505de-b6189661-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_747024_taijuan-walker-in-play-out-s-to-colton-cowser
-clip_id: MLB_747024_taijuan-walker-in-play-out-s-to-colton-cowser_auto1_0p480_7p480
+clip_id: MLB_747024_taijuan-walker-in-play-out-s-to-colton-cowser_reclean_0p000_13p415
 source_path: raw_sources\MLB_747024_taijuan-walker-in-play-out-s-to-colton-cowser_Taijuan_Walker_snags_a_line_drive_Taijuan_Walker_snags_a_line_drive_Taijuan_Walk.mp4
-clip_start_time: 0.480
-clip_end_time: 7.480
+clip_start_time: 0.000
+clip_end_time: 13.415

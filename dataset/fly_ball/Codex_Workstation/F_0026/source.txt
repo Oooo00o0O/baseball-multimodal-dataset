@@ -1,7 +1,7 @@
 video_title: Randy Arozarena fouls after review in top of the 1st Randy Arozarena fouls after review in top of the 1st Randy Arozarena fouls after review in top of the 1st Randy Arozarena's fly ball to right field is ruled foul after review in top of the 1st
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/0729996c-f9dea7cf-9aba7108-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823367_braxton-ashcraft-foul-to-randy-arozarena
-clip_id: MLB_823367_braxton-ashcraft-foul-to-randy-arozarena_head_0p000_7p000
+clip_id: MLB_823367_braxton-ashcraft-foul-to-randy-arozarena_reclean_0p355_14p355
 source_path: raw_sources\MLB_823367_braxton-ashcraft-foul-to-randy-arozarena_Randy_Arozarena_fouls_after_review_in_top_of_the_1st_Randy_Arozarena_fouls_after.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 0.355
+clip_end_time: 14.355

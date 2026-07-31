@@ -1,7 +1,7 @@
 video_title: Brennan Bernardino gets out of jam in 6th Brennan Bernardino gets out of jam in 6th Brennan Bernardino gets out of jam in 6th Brennan Bernardino induces a fly ball to center field, escaping a bases-loaded jam in the bottom of the 6th and keeping the game tied at 3
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/4ce25095-31bfd74a-eb8c77ba-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746787_martin-maldonado-flies-out-to-center-fielder-ceddanne-rafaela-vvxuuj
-clip_id: MLB_746787_martin-maldonado-flies-out-to-center-fielder-ceddanne-rafaela-vvxuuj_auto1_7p540_14p540
+clip_id: MLB_746787_martin-maldonado-flies-out-to-center-fielder-ceddanne-rafaela-vvxuuj_reclean_7p555_18p569
 source_path: raw_sources\MLB_746787_martin-maldonado-flies-out-to-center-fielder-ceddanne-rafaela-vvxuuj_Brennan_Bernardino_gets_out_of_jam_in_6th_Brennan_Bernardino_gets_out_of_jam_in_.mp4
-clip_start_time: 7.540
-clip_end_time: 14.540
+clip_start_time: 7.555
+clip_end_time: 18.569
