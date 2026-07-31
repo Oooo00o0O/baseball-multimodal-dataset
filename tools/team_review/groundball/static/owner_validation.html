@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Groundball 人工验证台</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <link rel="stylesheet" href="/static/owner_validation.css" />
+    <link rel="stylesheet" href="/static/owner_validation_linkage.css" />
+  </head>
+  <body>
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="loading-card">
+        <span class="loading-spinner" aria-hidden="true"></span>
+        <strong>正在读取 Groundball 审核队列…</strong>
+      </div>
+    </div>
+
+    <header class="owner-header">
+      <div>
+        <p class="eyebrow">Groundball · 人工验证</p>
+        <h1>击球事件验证台</h1>
+        <p class="header-copy">视频静音，音频作为时间基准；按文档记录 V / I，无法判断的样本直接舍弃。</p>
+      </div>
+      <div class="header-actions">
+        <div class="mini-stat"><strong id="headerVisited">—</strong><span>已经看过</span></div>
+        <div class="mini-stat"><strong id="headerFormal">—</strong><span>可导出 V / I</span></div>
+        <div class="mini-stat"><strong id="headerRemaining">—</strong><span>尚未查看</span></div>
+        <div class="export-menu">
+          <a class="secondary-button" href="/api/reviews/export">下载 Groundball 结果 CSV</a>
+          <a class="text-link" href="/api/reviews/export-all">下载全部结果（含舍弃）</a>
+        </div>
+      </div>
+    </header>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <main class="owner-layout">
+      <section class="workspace-column">
+        <article class="card sample-card">
+          <div class="sample-heading">
+            <div>
+              <p class="section-kicker">当前样本 <span id="samplePosition">— / —</span></p>
+              <h2 id="sampleId">正在载入…</h2>
+              <p id="sampleAuditId" class="muted mono">—</p>
+            </div>
+            <div class="sample-badges">
+              <span id="batchBadge" class="soft-badge">第 — 批 · — / 20</span>
+              <span id="recordBadge" class="soft-badge">未查看</span>
+              <span id="videoBadge" class="soft-badge">检查视频中</span>
+            </div>
+          </div>
+
+          <div class="instruction-strip">
+            <strong>本条操作：</strong>
+            <span>戴耳机，以正常速度至少完整看两遍；时间从当前 video.mp4 的 0.000 秒计算。</span>
+          </div>
+
+          <div class="media-grid">
+            <div class="video-shell">
+              <video id="videoPlayer" playsinline preload="metadata" muted></video>
+              <div id="videoPlaceholder" class="video-placeholder">
+                <strong>视频尚未准备</strong>
+                <span>请确认所选 dataset 已包含此样本的 video.mp4。</span>
+              </div>
+            </div>
+            <div class="media-controls">
+              <button id="playPauseButton" class="primary-button" type="button" aria-keyshortcuts="Space">播放</button>
+              <button id="restartButton" class="secondary-button" type="button">从头播放</button>
+              <label class="compact-control">
+                <span>播放速度</span>
+                <select id="playbackRate">
+                  <option value="0.75">0.75×</option>
+                  <option value="1" selected>1.00×</option>
+                  <option value="1.25">1.25×</option>
+                  <option value="1.5">1.50×</option>
+                </select>
+              </label>
+              <span id="timeReadout" class="time-readout">0.000 / —</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="card waveform-card">
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">音频时间轴</p>
+              <h2>波形与击球位置</h2>
+            </div>
+            <div class="wave-legend">
+              <span><i class="legend-interval"></i>原标注范围</span>
+              <span><i class="legend-point"></i>自动建议 / 当前修正</span>
+            </div>
+          </div>
+          <div id="waveform" class="waveform"></div>
+          <div class="wave-ticks"><span>0.000 s</span><span id="waveDuration">—</span></div>
+          <div class="wave-actions">
+            <button id="setCurrentTimeButton" class="secondary-button" type="button">用当前播放位置填入正确秒数</button>
+            <button id="restoreAutoPointButton" class="secondary-button" type="button">恢复自动建议点</button>
+            <button id="jumpPointButton" class="text-button" type="button">跳到当前标记</button>
+            <span id="intervalReadout" class="muted">原标注：—</span>
+          </div>
+        </article>
+
+        <article id="legacyCard" class="card legacy-card" hidden>
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">旧版记录 · 只读</p>
+              <h2 id="legacyTitle">这条以前已经看过</h2>
+            </div>
+            <span id="legacyBadge" class="soft-badge">旧记录</span>
+          </div>
+          <p class="legacy-explainer">旧 CSV 原样保留、不会覆盖；系统会把已知旧状态自动对应到新版表单并纳入合并导出。你可以在这里核对、调整并保存，新保存的结论优先。</p>
+          <dl id="legacyDetails" class="legacy-details"></dl>
+        </article>
+
+        <article class="card validation-card">
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">按负责人文档填写</p>
+              <h2>本条验证结论</h2>
+            </div>
+          </div>
+
+          <div class="quick-actions" aria-label="常用结论">
+            <button class="quick-button quick-valid" data-preset="valid" type="button" title="快捷键：V" aria-keyshortcuts="V"><strong>V</strong> 完全合格</button>
+            <button class="quick-button quick-invalid" data-preset="no-contact" type="button"><strong>I · E01</strong> 没有击球</button>
+            <button class="quick-button quick-invalid" data-preset="wrong-time" type="button"><strong>I · E02</strong> 时间错误</button>
+            <button class="quick-button quick-discard" data-preset="discard" type="button"><strong>舍弃</strong> 无法可靠判断</button>
+          </div>
+          <div id="relationshipHint" class="relationship-hint">
+            先选结论或四项判断；系统会自动对应可以确定的错误代码。
+          </div>
+
+          <fieldset class="form-section">
+            <legend>1. 正式结论</legend>
+            <p class="field-help">V 和 I 计入正式 20 条；舍弃不计数，需要换一条。</p>
+            <div class="conclusion-grid">
+              <label class="conclusion-option valid-option">
+                <input type="radio" name="conclusion" value="V" />
+                <span><strong>V · 合格</strong><small>击球、时间、完整过程均符合要求，且不是回放。</small></span>
+              </label>
+              <label class="conclusion-option invalid-option">
+                <input type="radio" name="conclusion" value="I" />
+                <span><strong>I · 不合格</strong><small>存在明确问题；选择一个或多个 E01–E10。</small></span>
+              </label>
+              <label class="conclusion-option discard-option">
+                <input type="radio" name="conclusion" value="D" />
+                <span><strong>舍弃</strong><small>无法判断或素材不可用；不计入正式数量。</small></span>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset class="form-section">
+            <legend>2. 四项判断</legend>
+            <p class="field-help">正式 V / I 必须把四项全部选完。</p>
+            <div class="binary-grid">
+              <div class="binary-question" data-field="contains_contact">
+                <div><strong>包含击球事件？</strong><small>视频 / 音频中是否真的发生目标击球。</small></div>
+                <div class="binary-options">
+                  <label><input type="radio" name="contains_contact" value="Y" /><span>是</span></label>
+                  <label><input type="radio" name="contains_contact" value="N" /><span>否</span></label>
+                </div>
+              </div>
+              <div class="binary-question" data-field="original_time_correct">
+                <div><strong>原击球时间正确？</strong><small>音频清楚约 ±0.15 s；主要依靠画面约 ±0.25 s。</small></div>
+                <div class="binary-options">
+                  <label><input type="radio" name="original_time_correct" value="Y" /><span>是</span></label>
+                  <label><input type="radio" name="original_time_correct" value="N" /><span>否</span></label>
+                </div>
+              </div>
+              <div class="binary-question" data-field="full_process">
+                <div><strong>击球前后过程完整？</strong><small>能看清击球前准备和击球后结果，不是只截到后续。</small></div>
+                <div class="binary-options">
+                  <label><input type="radio" name="full_process" value="Y" /><span>是</span></label>
+                  <label><input type="radio" name="full_process" value="N" /><span>否</span></label>
+                </div>
+              </div>
+              <div class="binary-question" data-field="replay">
+                <div><strong>属于回放 / 慢动作？</strong><small>如果是回放或慢动作，应判 I 并选择 E06。</small></div>
+                <div class="binary-options">
+                  <label><input type="radio" name="replay" value="Y" /><span>是</span></label>
+                  <label><input type="radio" name="replay" value="N" /><span>否</span></label>
+                </div>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="form-section timing-section">
+            <legend>3. 正确击球秒数</legend>
+            <div class="timing-input-row">
+              <label>
+                <span>相对当前 video.mp4 的时间</span>
+                <div class="time-input-wrap">
+                  <input id="correctContactTime" type="number" min="0" step="0.001" placeholder="例如 2.438" />
+                  <span>秒</span>
+                </div>
+              </label>
+              <p>原时间正确时可以留空；系统会保留自动建议值作为有效时间。若“包含击球=是”且“原时间正确=否”，这里必须填写。</p>
+            </div>
+          </fieldset>
+
+          <fieldset class="form-section">
+            <legend>4. 错误代码（I 可多选）</legend>
+            <div id="errorCodeGrid" class="error-code-grid"></div>
+          </fieldset>
+
+          <fieldset class="form-section notes-section">
+            <legend>5. 备注（可选）</legend>
+            <textarea id="reviewNotes" rows="3" placeholder="I 可留空；只有舍弃 D 需要说明无法判断的原因。"></textarea>
+          </fieldset>
+
+          <div class="save-row">
+            <div>
+              <p id="formState" class="form-state">尚未保存新格式记录</p>
+              <p class="keyboard-help"><kbd>K</kbd> 上一条 · <kbd>J</kbd> 下一条 · <kbd>V</kbd> 完全合格 · <kbd>空格</kbd> 播放 / 暂停 · <kbd>Ctrl</kbd> + <kbd>Enter</kbd> 保存并下一条</p>
+            </div>
+            <div class="save-actions">
+              <button id="deleteReviewButton" class="danger-text-button" type="button" hidden>删除本条新记录</button>
+              <button id="saveStayButton" class="secondary-button" type="button">保存</button>
+              <button id="saveNextButton" class="primary-button" type="button">保存并下一条</button>
+            </div>
+          </div>
+        </article>
+
+        <div class="navigation-row">
+          <button id="previousButton" class="secondary-button" type="button" aria-keyshortcuts="K"><kbd>K</kbd> 上一条</button>
+          <button id="nextButton" class="secondary-button" type="button" aria-keyshortcuts="J"><kbd>J</kbd> 下一条</button>
+          <button id="nextUntouchedButton" class="primary-button" type="button">下一条未查看</button>
+        </div>
+      </section>
+
+      <aside class="side-column">
+        <section class="card queue-card">
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">批量审核</p>
+              <h2>样本队列</h2>
+            </div>
+            <span id="queueCount" class="soft-badge">—</span>
+          </div>
+          <label class="search-field">
+            <span class="sr-only">搜索样本</span>
+            <input id="queueSearch" type="search" placeholder="搜索 sample ID / audit ID" />
+          </label>
+          <div class="filter-row" role="group" aria-label="队列筛选">
+            <button class="filter-button active" data-filter="all" type="button">全部</button>
+            <button class="filter-button" data-filter="untouched" type="button">未查看</button>
+            <button class="filter-button" data-filter="reviewed" type="button">已审核</button>
+            <button class="filter-button" data-filter="V" type="button">V</button>
+            <button class="filter-button" data-filter="I" type="button">I</button>
+            <button class="filter-button" data-filter="D" type="button">舍弃</button>
+          </div>
+          <div id="queueList" class="queue-list"></div>
+          <div class="queue-pagination">
+            <button id="queuePrevPage" class="text-button" type="button">上一页</button>
+            <span id="queuePage">—</span>
+            <button id="queueNextPage" class="text-button" type="button">下一页</button>
+          </div>
+        </section>
+
+        <section class="card progress-card">
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">记录说明</p>
+              <h2>当前保存状态</h2>
+            </div>
+          </div>
+          <p class="plain-explainer">旧记录会自动映射进新版合并导出；新保存的结果优先于同一样本的旧映射，但旧 CSV 本身始终不变。</p>
+          <dl class="progress-grid">
+            <div><dt>队列总数</dt><dd id="statTotal">—</dd></div>
+            <div><dt>已经看过</dt><dd id="statVisited">—</dd></div>
+            <div><dt>尚未查看</dt><dd id="statRemaining">—</dd></div>
+            <div><dt>旧版映射记录</dt><dd id="statLegacy">—</dd></div>
+            <div><dt>可导出 V / I</dt><dd id="statFormal">—</dd></div>
+            <div><dt>合并导出舍弃</dt><dd id="statDiscarded">—</dd></div>
+            <div><dt>V</dt><dd id="statV">—</dd></div>
+            <div><dt>I</dt><dd id="statI">—</dd></div>
+          </dl>
+          <details class="path-details">
+            <summary>CSV 保存在哪里？</summary>
+            <p><strong>新记录：</strong><code id="newResultsPath">—</code></p>
+            <p hidden><strong>兼容记录：</strong><code id="legacyResultsPath">—</code></p>
+          </details>
+        </section>
+
+        <section class="card video-prep-card">
+          <div class="card-heading-row">
+            <div>
+              <p class="section-kicker">媒体说明</p>
+              <h2>使用已有数据</h2>
+            </div>
+            <span id="videoPrepStatus" class="soft-badge">待命</span>
+          </div>
+          <p class="plain-explainer">团队便携版不会联网下载或修改视频。若媒体缺失，请向任务分配者索取完整 dataset。</p>
+          <div class="prep-control-row">
+            <label hidden><span>最多补齐</span><input id="videoPrepCount" type="number" min="1" max="200" value="25" /></label>
+            <button id="prepareVideosButton" class="secondary-button" type="button" disabled>便携版不下载</button>
+          </div>
+          <div class="progress-track"><span id="videoPrepBar"></span></div>
+          <p id="videoPrepMessage" class="muted">请从本地数据目录读取已有媒体。</p>
+        </section>
+      </aside>
+    </main>
+
+    <script type="module" src="/static/owner_validation.js"></script>
+  </body>
+</html>

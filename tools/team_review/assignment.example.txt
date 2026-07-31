@@ -1,0 +1,4 @@
+# 示例格式：使用前请替换为分配给你的真实 sample ID。
+# 同一份 TXT 可以混合 Groundball 和 Flyball；每行一个编号。
+G_0001
+F_0001

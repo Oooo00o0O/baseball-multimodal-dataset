@@ -208,6 +208,11 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Portable team-review local state
+tools/team_review/review_outputs/
+tools/team_review/local_assignments/
+tools/team_review/*.local.*
+
 # Ruff stuff:
 .ruff_cache/
 
