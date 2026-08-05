@@ -212,6 +212,10 @@ tempCodeRunnerFile.py
 tools/team_review/review_outputs/
 tools/team_review/local_assignments/
 tools/team_review/*.local.*
+tools/team_review/mlb_candidate_curation/.runtime/
+tools/team_review/mlb_candidate_curation/settings.local.json
+tools/team_review/mlb_candidate_curation/merged_results/
+data/review/mlb_candidate_curation/
 
 # Ruff stuff:
 .ruff_cache/

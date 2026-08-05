@@ -90,3 +90,10 @@ Typical event durations:
 - Suitable for audio feature extraction, supervised learning, and future audio-video fusion research
 
 See [docs/annotation_guideline.md](docs/annotation_guideline.md) and [docs/dataset_schema.md](docs/dataset_schema.md) for detailed rules.
+
+## Windows team tools
+
+Portable local review and new-candidate collection tools are documented in
+[`tools/team_review/README.md`](./tools/team_review/README.md). The MLB candidate
+curation tool downloads runtime media locally; generated media and review state
+are intentionally excluded from Git.

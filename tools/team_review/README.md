@@ -1,4 +1,15 @@
-# Groundball / Flyball 团队审核工具（Windows 试用版）
+# 棒球团队审核与候选采集工具（Windows）
+
+本目录包含两类用途不同的工具：
+
+- `start_review.bat`：审核仓库里已有的 Groundball / Flyball 样本；
+- `mlb_candidate_curation/start_mlb_candidate_curation.bat`：按分配日期段从
+  MLB 官方事件发现、下载并人工筛选新的候选样本。
+
+第三套 MLB 工具的完整说明见
+[`mlb_candidate_curation/README.md`](./mlb_candidate_curation/README.md)。
+
+## 已有 Groundball / Flyball 样本审核
 
 这套工具读取一份简单的 TXT 任务清单：每行一个 `sample_id`。`G_...`
 自动进入 Groundball 人工验证台，`F_...` 自动进入 Flyball 人工校准台；两套
@@ -94,3 +105,19 @@ tools/team_review/review_outputs/<审核人>/<任务名-任务哈希>/
 ```
 
 这会验证任务、解析样本并生成会话清单，但不会启动服务器。
+
+## 新 MLB 候选采集与审核
+
+双击：
+
+```text
+tools\team_review\mlb_candidate_curation\start_mlb_candidate_curation.bat
+```
+
+首次运行填写负责人分配的开始/结束日期和批次代号。程序会自动建立候选清单、
+排除明确的多击球合集、准备首批视频并打开 8767 审核台。所有视频、缓存、个人
+审核结果和运行环境都保留在本地，不会进入 Git。
+
+成员完成后从页面右上角下载“团队结果包 ZIP”。汇总负责人双击同目录下的
+`merge_team_results.bat`，一次选择全部 ZIP；冲突和同视频多 play 会进入独立
+报告，不会互相覆盖。
